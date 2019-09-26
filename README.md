@@ -1,10 +1,10 @@
 ## Products
 
-- Aida DSP Arduino Shield
+- [Aida DSP Arduino Shield](aida_dsp_arduino_shield.md)
 
-- Aida DSP OS (NEW!!!)
+- [Aida DSP OS (NEW!!!)](aida_dsp_os.md)
 
-- Aida DSP Stompbox
+- [Aida DSP Stompbox](aida_dsp_stompbox.md)
 
 ## Consulting services
 
