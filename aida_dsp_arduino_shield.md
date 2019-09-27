@@ -45,4 +45,18 @@ Aida DSP is an audio shield for Arduino
 - Special function to update DSP parameters in real-time without clicks and pops
 - More...
 
-### Audio enthusiasts and audio makers, this board is for you!
+### More info
+
+- [Examples](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Examples)
+- [Arduino Libraries](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Libraries)
+- [Java Tools](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Java)
+- [Hardware specs & additional informations](https://github.com/AidaDSP/AidaDSP/tree/master/Hardware)
+- [Wiki](https://github.com/AidaDSP/AidaDSP/wiki)
+- **Where to BUY:** [Tindie](https://www.tindie.com/products/Maxdsp/aida-dsp-arduino-shield/)
+- [Follow us on **Facebook**](https://www.facebook.com/official.AidaDSP)
+
+### Partners
+
+**Manufacturing:**
+
+![PCBWay](assets/images/pcbway_logo1.jpeg)
