@@ -15,7 +15,7 @@ Aida DSP is an audio shield for Arduino
 - Dedicated crimpable connectors to host encoder, buttons and pots
 - Expansion connector with available signals from DSP
 - Available open source examples for Arduino boards
-- Available open source low level libraries for Arduino Uno/Mega/Due/Zero
+- Compatible with Arduino Uno/Mega/Due/Zero
 
 ### How it works
 
