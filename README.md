@@ -1,5 +1,8 @@
 ## Aida DSP
 
+Here at Aida DSP we are both musicians and engineers. We like to invent new things
+as well as learning to play a new instrument.
+
 ## Products
 
 - [Aida DSP Arduino Shield](aida_dsp_arduino_shield.md)

@@ -1,5 +1,6 @@
 ---
 image: assets/images/aida_dsp_arduino_shield1.jpg
+description: [An audio shield for Arduino.]
 ---
 
 ## Aida DSP Arduino Shield
