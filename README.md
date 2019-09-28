@@ -1,7 +1,7 @@
 ## Aida DSP
 
 Here at Aida DSP we are both musicians and engineers. We like to invent new things
-as well as learning to play a new instrument.
+as much as learning to play a new instrument.
 
 ## Products
 
@@ -24,8 +24,5 @@ in digital audio and we have more than 10 years of experience in consulting acti
 
 ## Contacts
 
-- 3560 Jenna Lane, Urbandale, IA 50322
-- info@aidadsp.cc
-- Phone: 515-270-6347
-- Mobile: 712-360-2709
-- [Facebook](https://www.facebook.com/official.AidaDSP)
+- We are located in Venaria Reale, 10078 Torino, Italy
+- Send a message or follow us on [Facebook](https://www.facebook.com/official.AidaDSP)
