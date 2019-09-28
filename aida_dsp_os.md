@@ -22,10 +22,18 @@ _**wavetable player**_ that you can use with your own samples, and a _**puredata
 3. Control
   * high contrast oled display
   * three micro switches
+  * connect usb to a Pc to copy samples or custom plugins (usb drive)
 4. Performance
   * quad core cortex A53 processor
   * audio codec 24bit/48/96/192kHz
   * 64-bit internal processing
+
+### Resources
+
+- [Manual V1.01]()
+- **Where to BUY:** [Tindie](https://www.tindie.com/products/Maxdsp/aida-dsp-os/)
+- [SDK](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
+- [SD Image V1.01]()
 
 ### Partners
 

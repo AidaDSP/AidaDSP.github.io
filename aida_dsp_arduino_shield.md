@@ -12,7 +12,7 @@ own audio effect without sacrifycing the sound quality
 - Compact design size (Arduino shield form factor)
 - Low noise design for audio applications
 - 2 mono inputs 4 mono outputs
-- Pro audio converters: 24 bits, 48/96/192kHz
+- Pro audio A/D D/A conversion: 24 bits, 48/96/192kHz
 - Dedicated crimpable connectors to host encoder, buttons and pots
 - Expansion connector with available signals from DSP
 - Available open source examples for Arduino boards
@@ -27,7 +27,7 @@ own audio effect without sacrifycing the sound quality
 > > Now you're ready to code a sketch that communicates with the DSP in real time to control its algorithm using [Aida DSP official Arduino API library](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Libraries).
 
 3. Create!
-> > Basically you can manage your UI (user interface: buttons, faders, etc.) with Arduino and then let the DSP do the whole hard work of processing audio with superb quality. For example you can use the DSP to generate a sine tone and change its frequency and amplitude with a pot wired to Arduino's analog input. Check out our [examples](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Examples) on Github!
+> > Basically you can manage your UI (user interface: buttons, faders, etc.) with Arduino and then let the DSP do the whole hard work of processing audio. For example you can use the DSP to generate a sine tone and change its frequency and amplitude with a pot wired to Arduino's analog input. Check out our [examples](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Examples) on Github!
 
 ### Typical applications
 - 1st and 2nd order equalizers with adjustable f, Q, gain
