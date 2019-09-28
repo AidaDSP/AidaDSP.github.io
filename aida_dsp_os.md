@@ -5,10 +5,10 @@ description: [A powerful music creation box with everything you need.]
 
 ## Aida DSP OS
 
-Aida DSP OS is the innovative product that could make you leave your Pc at home when you're going
+Aida DSP OS is the innovative product that could make you leave your Pc at home: when you're going
 to do some rehersal, in the recording studio, or outside, in search of new sounds. It's based on the same
-technology of the Mod Duo, a device presented at NAMM 2017. In addition to that, you have a powerful
-wavetable player that you can use with your own samples.
+technology of the _**Mod Duo**_, a device presented at _NAMM 2017_. In addition to that, you have a powerful
+wavetable player that you can use with your own samples, and a puredata patch player.
 
 1. Three function modes
   * wavetable player .gig, .sf2 e .sfz
