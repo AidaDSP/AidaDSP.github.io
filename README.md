@@ -20,4 +20,4 @@ in digital audio and we have more than 10 years of experience in consulting acti
 
 - Aida DSP Arduino library
 
-- Aida DSP OS sdk (NEW!!!)
+- [Aida DSP OS sdk (NEW!!!)](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)

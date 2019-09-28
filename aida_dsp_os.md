@@ -35,6 +35,14 @@ _**wavetable player**_ that you can use with your own samples, and a _**puredata
 - [SDK](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
 - [SD Image V1.01]()
 
+### Media
+
+- [Gallery]()
+- [Video 1](https://www.youtube.com)
+- [Mod Duo mode](https://www.youtube.com)
+- [Sampler mode](https://www.youtube.com)
+- [Puredata mode](https://www.youtube.com)
+
 ### Partners
 
 **Manufacturing:**
