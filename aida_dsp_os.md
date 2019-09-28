@@ -26,3 +26,14 @@ wavetable player that you can use with your own samples.
   * quad core cortex A53 processor
   * audio codec 24bit/48/96/192kHz
   * 64-bit internal processing
+
+### Partners
+
+**Manufacturing:**
+
+![PCBWay](assets/images/pcbway_logo1.jpeg)
+
+### Credits
+
+This product would not exists without the impressive work of the guys at **Moddevices**
+and the big community that they created around their product
