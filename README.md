@@ -18,6 +18,6 @@ in digital audio and we have more than 10 years of experience in consulting acti
 
 ## Open source & developers
 
-- Aida DSP Arduino library
+- [Aida DSP Arduino library](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Libraries)
 
 - [Aida DSP OS sdk (NEW!!!)](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
