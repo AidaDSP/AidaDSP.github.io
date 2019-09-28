@@ -5,4 +5,24 @@ description: [A powerful music creation box with everything you need.]
 
 ## Aida DSP OS
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nisl felis, eleifend eu risus et, mollis imperdiet libero. Aliquam dapibus, elit sit amet volutpat sollicitudin, justo urna fringilla eros, eget elementum massa magna id mauris. Fusce a enim purus. Sed lectus urna, dignissim id nunc quis, elementum sagittis libero. Phasellus vitae ullamcorper orci. Ut in sapien ut metus pellentesque feugiat. Sed ultrices dignissim bibendum. Praesent vitae tincidunt eros, a elementum arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam et ante ac ligula accumsan vehicula eget in quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam cursus diam ac magna efficitur pharetra. Nam in malesuada libero. Mauris consequat leo id elit suscipit, ut mattis dui posuere.
+Aida DSP OS is the innovative product that could make you leave your Pc at home when you're going
+to do some rehersal, in the recording studio, or outside, in search of new sounds. It's based on the same
+technology of the Mod Duo, a device presented at NAMM 2017. In addition to that, you have a powerful
+wavetable player that you can use with your own samples.
+
+1. Three function modes
+  * wavetable player .gig, .sf2 e .sfz
+  * mod duo pedalboards player
+  * puredata patch player
+2. In/Out
+  * optoisolated midi input (connect directly keyboards, synths)
+  * usb host port for usb midi controllers
+  * high impedance instrument input (guitar/bass)
+  * stereo line out
+3. Control
+  * high contrast oled display
+  * three micro switches
+4. Performance
+  * quad core cortex A53 processor
+  * audio codec 24bit/48/96/192kHz
+  * 64-bit internal processing
