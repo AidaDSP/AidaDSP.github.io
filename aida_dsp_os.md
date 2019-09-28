@@ -1,6 +1,6 @@
 ---
-image: assets/images/background1.jpg
-description: [A powerful music creation box with everything you need.]
+image: assets/images/aida_dsp_os1.jpg
+description: A powerful music creation box with everything you need.
 ---
 
 ## Aida DSP OS

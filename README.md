@@ -21,8 +21,3 @@ in digital audio and we have more than 10 years of experience in consulting acti
 - Aida DSP Arduino library
 
 - Aida DSP OS sdk (NEW!!!)
-
-## Contacts
-
-- We are located in Venaria Reale, 10078 Torino, Italy
-- Send a message or follow us on [Facebook](https://www.facebook.com/official.AidaDSP)

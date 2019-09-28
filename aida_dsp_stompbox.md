@@ -1,6 +1,6 @@
 ---
 image: assets/images/aida_dsp_stompbox1.jpeg
-description: [An innovative stompbox using Aida DSP Arduino Shield technology.]
+description: An innovative stompbox using Aida DSP Arduino Shield technology.
 ---
 
 ## Aida DSP Stompbox
