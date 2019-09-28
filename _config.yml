@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 
 title: Aida DSP
 description: We are a startup focusing on digital audio processing. We offer innovative products and consulting services.
-logo: assets/images/logo1.png
+logo: assets/images/aida_dsp_logo1.png
 show_downloads: false
 facebook:
   pagename: official.AidaDSP
