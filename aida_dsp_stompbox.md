@@ -21,7 +21,7 @@ and more!
 them inside a pedal so you can use them also during rehersals or when you work on the road?
 - Do you like the sound of some compressor presets that you use with your favourite plugin on your DAW? Put them
 into a pedal, this will ease your job both while recording (both you or your customers) or
-during production. 
+during production.
 - Are you a producer? It's easier to convince a musician to play through a stompbox since can be used
 together with their own instrumentation, but a the same time helps you in keeping that particular sound idea
 that you had for their album
@@ -29,11 +29,12 @@ that you had for their album
 ### Endless options and combinations
 
 - Hammond Box die cast aluminium case, CNC machine drilled
-- 2 knobs + 3-way switch
-- 4 knobs
+- 2 knobs + 3-way switch or 4 knobs versions
+- Dual color 3mm led
 - True bypass switch
 - Anodized aluminium plate with laser printed graphics
 - 9-12V supply center positive
+- Neutrik in/out jacks with chrome ferrule nut
 - Huge library with standard audio algorithms
 
 ### Solid and durable
