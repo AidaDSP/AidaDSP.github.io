@@ -26,6 +26,7 @@ _**wavetable player**_ that you can use with your own samples, and a _**puredata
   * quad core cortex A53 processor with 1GB of ram
   * audio codec 24bit/48/96/192kHz
   * 64-bit internal processing
+  * 32GB sd card (class 10 95MB/s read speed)
 
 ### What's included
 
@@ -40,14 +41,14 @@ package:
 - RT Preempt kernel means low and stable audio latency (10ms or less).
 - Operative system realized with Yocto means higher system stability: no unuseful software
 is installed on the board (forget antivirus popups or security ads or advertisements of any kind)
-- Advanced partitioning: the filesystem is partitioned to increase disk streaming performance and no write is performed during operation (prevents fs damage)
+- Advanced partitioning: the filesystem is partitioned to increase disk streaming performance and no write is performed during operation (prevents sd card damage)
 - Open source software: you can develop your own plugin using the [SDK](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing) provided.
 - Ease of operation: when started in usb storage mode, the board can be connected with USB cable to a Pc for transferring new samples, plugins or patches.
 
 ### Not included
 
-- Power supply: you can use a standard 2A phone charger with micro USB connector, or use the low noise 5V USB supply you use
-for your soundcard. You can also use a [Raspberry Pi's adapter](https://www.amazon.it/Aukru-Alimentatore-Raspberry-modello-Modello/dp/B01566WOAG/ref=sr_1_8?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=raspberry+pi+supply&qid=1569943965&s=gateway&sr=8-8)
+- Power supply: 5V/2A. You can use a standard 2A phone charger with micro USB connector, or a [Raspberry Pi's adapter](https://www.amazon.it/Aukru-Alimentatore-Raspberry-modello-Modello/dp/B01566WOAG/ref=sr_1_8?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=raspberry+pi+supply&qid=1569943965&s=gateway&sr=8-8). Optionally if you
+have a low noise USB 5V supply port (i.e. for USB souncard in recording studios) would be even better.
 - Midi/audio cables
 
 ### Dimensions
