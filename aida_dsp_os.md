@@ -77,6 +77,12 @@ have a low noise USB 5V supply port (i.e. for USB souncard in recording studios)
 - [Sampler mode](https://www.youtube.com)
 - [Puredata mode](https://www.youtube.com)
 
+### Powered by
+
+![Yocto Project](assets/images/yocto_project_logo1.png)
+
+![Linux](assets/images/tux_logo1.png)
+
 ### Partners
 
 **Manufacturing:**
