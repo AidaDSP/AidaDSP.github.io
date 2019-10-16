@@ -43,7 +43,10 @@ package:
 - Operative system realized with Yocto means higher system stability: no unuseful software
 is installed on the board (forget antivirus popups or security ads or advertisements of any kind)
 - Advanced partitioning: the filesystem is partitioned to increase disk streaming performance and no write is performed during operation (prevents sd card damage)
-- Open source software: you can develop your own plugin using the [SDK](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing) provided.
+- Based on open source software:
+  * create your soundfont in SFZ format
+  * develop your own plugin using the sdk provided. See [guide](howto_sdk_lv2_plugins.md)
+  * create your own patch with puredata
 - Ease of operation: when started in usb storage mode, the board can be connected with USB cable to a Pc for transferring new samples, plugins or patches.
 
 ### Not included
