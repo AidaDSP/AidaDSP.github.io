@@ -3,7 +3,7 @@ image: assets/images/plugins_modduo1.png
 description: Develop LV2 plugins with Aida DSP OS sdk
 ---
 
-## How-to
+## How-to: lv2, sdk
 
 ## Introduction
 
