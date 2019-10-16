@@ -77,8 +77,8 @@ where
 
 This is the pattern that maps the sample to a note:
 
-* sample=wav or flac file
-* key= or lokey= hikey= pitch_keycenter= note
+* _**sample=**_ wav or flac file
+* _**key=**_ or _**lokey=**_ _**hikey=**_ _**pitch_keycenter=**_ note
 
 
 ## Okay thanks for the theory, how can I create my soundfonts?
