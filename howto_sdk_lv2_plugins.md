@@ -13,7 +13,7 @@ based on a 64-bit Quad-Core ARM Cortex-A53 processor.
 You can download the sdk [here](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
 
 
-## Istallation
+## Installation
 
 On a Linux machine:
 
