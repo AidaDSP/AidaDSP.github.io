@@ -17,7 +17,7 @@ You can download the sdk [here](https://drive.google.com/drive/folders/1hVDwNKM-
 
 On a Linux machine:
 
-1) `./poky-glibc-x86_64-aidadsp-basic-image-aarch64-toolchain-2.4.3.sh`
+`./poky-glibc-x86_64-aidadsp-basic-image-aarch64-toolchain-2.4.3.sh`
 
 
 ## Build example plugin
