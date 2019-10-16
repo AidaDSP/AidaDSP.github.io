@@ -54,7 +54,7 @@ have a low noise USB 5V supply port (i.e. for USB souncard in recording studios)
 ### Dimensions
 
 - width 10,61 cm
-- heigth 4,93 cm
+- height 4,93 cm
 - length 5,21 cm
 
 ### Weight
