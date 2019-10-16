@@ -44,7 +44,7 @@ package:
 is installed on the board (forget antivirus popups or security ads or advertisements of any kind)
 - Advanced partitioning: the filesystem is partitioned to increase disk streaming performance and no write is performed during operation (prevents sd card damage)
 - Based on open source software:
-  * create your soundfont in SFZ format
+  * create your soundfont in SFZ format. How-to [here](howto_make_your_own_sfz_soundfont.md)
   * develop your own plugin using the sdk provided. How-to [here](howto_sdk_lv2_plugins.md)
   * create your own patch with puredata
 - Ease of operation: when started in usb storage mode, the board can be connected with USB cable to a Pc for transferring new samples, plugins or patches.
