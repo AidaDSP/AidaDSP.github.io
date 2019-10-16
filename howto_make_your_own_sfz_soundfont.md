@@ -10,17 +10,21 @@ description: Create your own soundfont in sfz format
 FAQs:
 
 1) **What is it SFZ?**
+
 SFZ is a plain text file format that stores instrument data for software synthesizers. (see full Wikipedia's page https://en.wikipedia.org/wiki/SFZ_(file_format))
 
 2) **Can I play SFZ soundfonts on Mac/Windows?**
+
 Sforzando
 
 3) **Are SFZ soundfonts better that other soundfonts?**
+
 No, the final quality of a soundfont is determined by the quality of the job done by the sound designer who recorded the samples. Although we may say
 that SFZ is a very flexible and open format, and has advanced features that make it compete with some well known commercial
 formats like komplete
 
 4) **Why another soundfont format? I have komplete and I'm done with it...**
+
 So you pay for samples that you do not own, since you can play them only through their proprietary player that runs
 only on certain machines. SFZ is an open format, that means that you can use the program you want to play them, the only
 requirement is that this program needs to support SFZ format.
