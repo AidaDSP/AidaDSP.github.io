@@ -51,13 +51,13 @@ a plugin are defined.
 
 ## Quick How-To
 
-MyAwesomeAudioPlugin::instantiate -> do the malloc(s) here
-MyAwesomeAudioPlugin::connect_port
-MyAwesomeAudioPlugin::activate -> do the initialization of buffers here (i.e. memset...)
-MyAwesomeAudioPlugin::run -> do the change_param(knob1, knob2, ...) and processing(audio in, audio out) here
-MyAwesomeAudioPlugin::deactivate
-MyAwesomeAudioPlugin::cleanup -> do the free(s) here
-MyAwesomeAudioPlugin::extension_data
+    MyAwesomeAudioPlugin::instantiate -> do the malloc(s) here
+    MyAwesomeAudioPlugin::connect_port
+    MyAwesomeAudioPlugin::activate -> do the initialization of buffers here (i.e. memset...)
+    MyAwesomeAudioPlugin::run -> do the change_param(knob1, knob2, ...) and processing(audio in, audio out) here
+    MyAwesomeAudioPlugin::deactivate
+    MyAwesomeAudioPlugin::cleanup -> do the free(s) here
+    MyAwesomeAudioPlugin::extension_data
 
 Aida DSP OS is running a rt patched operative system, so it is possible to enable in the plugin
 the hardRTCapable flag. However setting this flag is not mandatory and doesn't affects plugin performance,
