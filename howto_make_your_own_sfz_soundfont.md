@@ -72,8 +72,8 @@ you have a list of wav files that are actually the samples (i.e. a single notes 
 
 where
 
-* <group> parameters that affect multiple regions: in this soundfont we have global release, sustain and decay
-* <region> since a single sample can be mapped to multiple notes, they are called regions more than notes or sounds.
+* `<group>` parameters that affect multiple regions: in this soundfont we have global release, sustain and decay
+* `<region>` since a single sample can be mapped to multiple notes, they are called regions more than notes or sounds.
 
 This is the pattern that maps the sample to a note:
 
