@@ -1,20 +1,22 @@
 ---
 image: assets/images/plugins_modduo1.png
-description: How to develop LV2 plugins with Aida DSP OS sdk
+description: Develop LV2 plugins with Aida DSP OS sdk
 ---
 
-## How-to: LV2 plugins with Aida DSP OS sdk
-
+## How-to
 
 ## Introduction
 
 This sdk will allow you to compile LV2 audio plugins that can run on Aida DSP OS board
-based on a 64-bit Quad-Core ARM Cortex-A53 processor
+based on a 64-bit Quad-Core ARM Cortex-A53 processor. 
+
+You can download the sdk [here](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
 
 
 ## Istallation
 
 On a Linux machine:
+
 1) ./poky-glibc-x86_64-aidadsp-basic-image-aarch64-toolchain-2.4.3.sh
 
 
@@ -93,5 +95,7 @@ e.g. pure-data application
 ## Tips
 
 * I don't remember if I did the source of the environment or not
+
 $ echo $CC
+
 aarch64-poky-linux-gcc --sysroot=/localdisk/massimo/Work/Spare/sdk/yocto/sysroots/aarch64-poky-linux
