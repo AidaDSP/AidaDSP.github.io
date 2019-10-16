@@ -7,10 +7,10 @@ description: A powerful music creation box with everything you need.
 
 Thanks to it's small size Aida DSP OS is the innovative product that is called to be a sostitute of your Pc in the music composition/production process: when you're going to do some rehersal, in the recording studio, or on the road. It's based on the same
 technology of the renowned _**Mod Duo**_, a device presented at _NAMM 2017_. In addition to that, you have a powerful
-_**wavetable player**_ that you can use with your own samples, and a _**puredata**_ patch player.
+_**soundfonts player**_ that you can use with your own samples, and a _**puredata**_ patch player.
 
 1. Three function modes
-  * wavetable player .gig, .sf2 e .sfz
+  * soundfonts player .gig, .sf2 e .sfz
   * mod duo pedalboards player
   * puredata patch player
 2. In/Out
@@ -32,7 +32,7 @@ _**wavetable player**_ that you can use with your own samples, and a _**puredata
 
 Aida DSP OS comes fully assembled with acrylic (transparent) case and require no soldering work. Included in the software
 package:
-- 3,8GB of samples ready to play in wavetable player mode see [samples list](https://drive.google.com/drive/folders/11b5uSavJboytXnDFgocN8cjFrTf7xIc7?usp=sharing)
+- 3,8GB of samples ready to play in soundfonts player mode see [samples list](https://drive.google.com/drive/folders/11b5uSavJboytXnDFgocN8cjFrTf7xIc7?usp=sharing)
 - 430 lv2 plugins see [plugins list](https://drive.google.com/drive/folders/11b5uSavJboytXnDFgocN8cjFrTf7xIc7?usp=sharing)
 - puredata version 0.49-0 with examples [puredata audio examples](https://drive.google.com/drive/folders/11b5uSavJboytXnDFgocN8cjFrTf7xIc7?usp=sharing)
 
