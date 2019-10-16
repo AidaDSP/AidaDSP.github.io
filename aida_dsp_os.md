@@ -10,7 +10,7 @@ technology of the renowned _**Mod Duo**_, a device presented at _NAMM 2017_. In 
 _**soundfonts player**_ that you can use with your own samples, and a _**puredata**_ patch player.
 
 1. Three function modes
-  * soundfonts player .gig, .sf2 e .sfz
+  * soundfonts player .gig, .sf2 and .sfz
   * mod duo pedalboards player
   * puredata patch player
 2. In/Out
