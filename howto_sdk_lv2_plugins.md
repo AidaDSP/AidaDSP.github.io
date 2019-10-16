@@ -70,7 +70,7 @@ You don't need to develop a graphic interface, since
 
 .ttl files describe the plugin ports (AudioPort, ControlPort) see Gain.ttl.
 
-Aida DSP OS is based on moddevices's Mod Duo technology which exposes a web server graphic interface. The server
+Aida DSP OS is based on Mod Duo's technology from moddevices which exposes a web server graphic interface. The server
 looks for a folder named "modgui" in the plugin directory. This "modgui" is a css graphic object which is mapped
 on the .ttl file. The graphic is totally independent from plugin development (i.e. you don't need to start any thread for handling graphic interface
 when you instantiate the plugin).
