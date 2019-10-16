@@ -17,24 +17,24 @@ You can download the sdk [here](https://drive.google.com/drive/folders/1hVDwNKM-
 
 On a Linux machine:
 
-1) ./poky-glibc-x86_64-aidadsp-basic-image-aarch64-toolchain-2.4.3.sh
+1) `./poky-glibc-x86_64-aidadsp-basic-image-aarch64-toolchain-2.4.3.sh`
 
 
 ## Build example plugin
 
 This audio plugin is a simple gain cell with a control knob
 
-1. source environment-setup-aarch64-poky-linux
-2. mkdir ~/aidadspworkspace
-3. cd ~/aidadspworkspace
-4. git clone https://github.com/moddevices/mod-utilities.git
-5. cd mod-utilities/Gain
-6. make
+    source environment-setup-aarch64-poky-linux
+    mkdir ~/aidadspworkspace
+    cd ~/aidadspworkspace
+    git clone https://github.com/moddevices/mod-utilities.git
+    cd mod-utilities/Gain
+    make
 
 or
 
-5. cd mod-utilities
-6. make
+    cd mod-utilities
+    make
 
 to build all the audio plugins provided in the repo.
 
@@ -80,22 +80,22 @@ when you instantiate the plugin).
 
 e.g. pure-data application
 
-1. source environment-setup-aarch64-poky-linux
-2. mkdir ~/aidadspworkspace
-3. cd ~/aidadspworkspace
-4. git clone https://github.com/pure-data/pure-data.git
-5. cd pure-data
-6. git checkout 0.49-0
-7. ./autogen.sh
-8. ./configure --host=aarch64-poky-linux --enable-jack --enable-fftw
-9. make -j 8
-10. file src/pd
+    source environment-setup-aarch64-poky-linux
+    mkdir ~/aidadspworkspace
+    cd ~/aidadspworkspace
+    git clone https://github.com/pure-data/pure-data.git
+    cd pure-data
+    git checkout 0.49-0
+    ./autogen.sh
+    ./configure --host=aarch64-poky-linux --enable-jack --enable-fftw
+    make -j 8
+    file src/pd
 
 
 ## Tips
 
 * I don't remember if I did the source of the environment or not
 
-$ echo $CC
+`$ echo $CC`
 
 aarch64-poky-linux-gcc --sysroot=/localdisk/massimo/Work/Spare/sdk/yocto/sysroots/aarch64-poky-linux
