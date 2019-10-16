@@ -21,7 +21,7 @@ Sforzando
 
 No, the final quality of a soundfont is determined by the quality of the job done by the sound designer who recorded the samples. Although we may say
 that SFZ is a very flexible and open format, and has advanced features that make it compete with some well known commercial
-formats like komplete
+formats
 
 4) **Why another soundfont format? I have komplete and I'm done with it...**
 
