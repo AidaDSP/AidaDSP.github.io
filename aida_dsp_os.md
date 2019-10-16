@@ -5,7 +5,7 @@ description: A powerful music creation box with everything you need.
 
 ## Aida DSP OS
 
-Thanks to it's small size Aida DSP OS is the innovative product that is called to be a sostitute of your Pc in the music composition/production process: when you're going to do some rehersal, in the recording studio, or on the road. It's based on the same
+Thanks to it's small size Aida DSP OS is the innovative product that is called to be a sostitute of your Pc in the music composition/production process: when you're going to do some rehersal, in the recording studio or on the road. It's based on the same
 technology of the renowned _**Mod Duo**_, a device presented at _NAMM 2017_. In addition to that, you have a powerful
 _**soundfonts player**_ that you can use with your own samples, and a _**puredata**_ patch player.
 
@@ -38,6 +38,7 @@ package:
 
 ### Advantages
 
+- High definition audio codec with ultra low noise clock source
 - RT Preempt kernel means low and stable audio latency (10ms or less).
 - Operative system realized with Yocto means higher system stability: no unuseful software
 is installed on the board (forget antivirus popups or security ads or advertisements of any kind)
