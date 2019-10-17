@@ -15,7 +15,7 @@ SFZ is a plain text file format that stores instrument data for software synthes
 
 2) **Can I play SFZ soundfonts on Mac/Windows?**
 
-Sforzando
+Many programs support SFZ, for example [Sforzando](https://www.plogue.com/downloads.html)
 
 3) **Are SFZ soundfonts better that other soundfonts?**
 

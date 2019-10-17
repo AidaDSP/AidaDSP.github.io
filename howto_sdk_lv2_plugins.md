@@ -64,7 +64,7 @@ the hardRTCapable flag. However setting this flag is not mandatory and doesn't a
 is only a plugin "qualifier".
 
 
-# Graphic interface for the audio plugin
+## Graphic interface for the audio plugin
 
 You don't need to develop a graphic interface, since
 
