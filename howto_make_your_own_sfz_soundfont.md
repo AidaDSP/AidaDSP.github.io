@@ -11,7 +11,7 @@ FAQs:
 
 1) **What is it SFZ?**
 
-SFZ is a plain text file format that stores instrument data for software synthesizers. See full Wikipedia's [page](https://en.wikipedia.org/wiki/SFZ_(file_format)
+SFZ is a plain text file format that stores instrument data for software synthesizers. See full Wikipedia's [page](https://en.wikipedia.org/wiki/SFZ_(file_format))
 
 2) **Can I play SFZ soundfonts on Mac/Windows?**
 
