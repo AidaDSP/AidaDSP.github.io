@@ -1,5 +1,5 @@
 ---
-image: assets/images/plugins_modduo1.png
+image: assets/images/lv2_logo1.jpeg
 description: Develop LV2 plugins with Aida DSP OS sdk
 ---
 
