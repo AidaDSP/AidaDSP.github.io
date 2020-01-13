@@ -73,9 +73,81 @@ to start the board respectively in soundfont player mode or puredata mode.
 
 ```
 
-When you finished to edit the configuration file, save it before exit and restart the board (this time no button press is necessary).
+When you finished to edit the configuration file, save it before exit and restart the board with a power cycle (this time no button press is necessary).
 
-Aida DSP OS should start with the new configuration
+Aida DSP OS should now start with the new configuration active.
+
+### How files are organized in the DATA partition
+
+```
+.
+├── .config
+├── .lv2plugins
+├── .oldlogs
+├── .pedalboards
+├── .puredata
+└── .soundfonts
+```
+
+* _**.config**_ contains the config file that stores system settings
+* _**.lv2plugins**_ contains all the lv2 plugins installed on the board
+* _**.oldlogs**_ contains all the relevant logs both from system and applications (logs are rotated every hour)
+* _**.pedalboards**_ contains all the Mod Duo pedalboards
+* _**.puredata**_ contains all the pd patches
+* _**.soundfonts**_ contains all the sounfonts installed on the board
+
+---
+**ADDING A SOUNDFONT**
+
+Soundfonts are organized in folders by format and instrument type:
+
+```
+.
+├── gig
+│   ├── Mellotron
+│   └── Yamaha CF3
+├── sf2
+│   ├── FluidR3_GM.sf2
+│   ├── FluidR3_GS.sf2
+│   └── TimGM6mb.sf2
+└── sfz
+    ├── Bass
+    ├── Brass
+    ├── Drum Machines
+    ├── Drums
+    ├── Ethnic
+    ├── Guitars
+    ├── Organs
+    ├── Other
+    ├── Percussion
+    ├── Pianos
+    ├── Strings
+    ├── Synths
+    └── Woodwinds
+```
+
+Suppose you have a new soundfont called _**Piano1**_ and structured like that
+
+```
+└── Piano1
+    ├── Samples
+    │   ├── 1_A_a.wav
+    │   ├── 1_Ab_b.wav
+    │   └── ...
+    └── Piano1.sfz
+```
+
+In _Samples_ you'll likely to see many .wav files or just one depending on how the soundfont has been created. Mine is just an example.
+
+To copy this new soundfont to Aida DSP OS you need to copy all the _Piano1_ folder under
+
+.soundfonts/sfz/Pianos
+
+but it will also work in a new path like
+
+.soundfonts/sfz/MySamples
+
+---
 
 ### Soundfont player mode
 
