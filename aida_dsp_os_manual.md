@@ -157,7 +157,7 @@ but it will also work in a new path like
 
 ## Software Update
 
-### Updating whole image
+### Updating the whole image
 
 At the moment the procedure of software update consists in you downloading the new
 binary image from a given link and then proceed to burn it to a valid SD Card (>= 32GB).
