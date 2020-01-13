@@ -87,6 +87,8 @@ works fine. On _**Linux**_ you have [dd](https://en.wikipedia.org/wiki/Dd_(Unix)
 
 If you need a tutorial, you can follow [this](https://www.raspberrypi.org/documentation/installation/installing-images/) link.
 
+If you want to check for new images, poll [this]() page.
+
 ## Specifications
 
 ### Audio
