@@ -21,6 +21,12 @@ description: Nobody read manuals nowadays. For those who do instead.
   * OLED Display
   * three buttons: K1 (left), K2 (center), K3 (right)
 
+## Glossary
+
+* _**hmi**_: human machine interface. On Aida DSP OS it's made with an OLED display and three buttons
+* _**plugin**_: an audio effect
+* ...
+
 ## Usage
 
 ### Power on
@@ -147,6 +153,16 @@ but it will also work in a new path like
 .soundfonts/sfz/MySamples
 
 ### Soundfont player mode
+
+When started in this mode, Aida DSP OS is usable as a soundfont player. Soundfont is a sample-based synthesis controlled via midi.
+
+In the simplest scenario, you play the midi keyboard and the midi notes are synthesized inside Aida DSP OS with the sound of the instrument
+that you selected: a piano, an organ, a mellotron...
+
+On Aida DSP OS you have nearly ~4GB of instruments to choose with. You can view the list [here](https://drive.google.com/drive/folders/11b5uSavJboytXnDFgocN8cjFrTf7xIc7?usp=sharing).
+
+The hmi in this mode lets you select the soundfont (instrument) you want to play. In addition to that, it lets you adjust other settings
+like the volume (soundfonts may have huge differences in volume between each others) or the midi channel
 
 ### Mod-Duo mode
 
