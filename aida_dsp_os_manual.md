@@ -1,6 +1,6 @@
 ---
 image: assets/images/aida_dsp_os1.jpg
-description: Aida DSP OS user manual.
+description: Nobody read manuals nowadays. For those who do instead.
 ---
 
 # Aida DSP OS User Manual
