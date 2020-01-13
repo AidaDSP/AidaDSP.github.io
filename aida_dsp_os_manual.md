@@ -96,8 +96,7 @@ Aida DSP OS should now start with the new configuration active.
 * _**.puredata**_ contains all the pd patches
 * _**.soundfonts**_ contains all the sounfonts installed on the board
 
----
-**ADDING A SOUNDFONT**
+### Adding a soundfont
 
 Soundfonts are organized in folders by format and instrument type:
 
@@ -146,8 +145,6 @@ To copy this new soundfont to Aida DSP OS you need to copy all the _Piano1_ fold
 but it will also work in a new path like
 
 .soundfonts/sfz/MySamples
-
----
 
 ### Soundfont player mode
 
