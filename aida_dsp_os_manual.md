@@ -42,6 +42,7 @@ In this mode Aida DSP OS can be connected to a Pc for transferring files or chan
 You need a USB micro to female USB type-A _**data**_ cable. Please verify it's a data cable! To check the cable
 count how many metal contacts has the male USB micro connector in the cable. If only two it's a supply only cable, you need the one
 with _**all**_ the contacts
+
 ---
 
 1. Connect USB rear supply port to Pc with a USB data cable and press central button (K2)
