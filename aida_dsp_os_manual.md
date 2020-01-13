@@ -3,7 +3,7 @@ image: assets/images/aida_dsp_os1.jpg
 description: Aida DSP OS user manual.
 ---
 
-# Aida DSP OS user manual
+# Aida DSP OS User Manual
 
 ## Connections
 
