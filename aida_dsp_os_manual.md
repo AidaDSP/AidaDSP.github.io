@@ -50,8 +50,9 @@ The configuration file is sort of [INI file](https://en.wikipedia.org/wiki/INI_f
 what is it an INI file don't worry and read the following, otherwise skip
 
 ```
-INI files are organized in lines, if the line doesn't start with a '#' or a '[' then it's a valid line. A valid
-line is used to specify a configuration. Example:
+INI files are organized in lines, if the line doesn't start with a '#' or a '['
+then it's a valid line.
+A valid line is used to specify a configuration. Example:
 
 mode mod-duo
 
