@@ -196,7 +196,7 @@ the usage of Aida DSP OS, with the suggested solutions.
 - DACs: 24 bit, 100dB SNR
 - Sampling rate: configurable, 48/96/192kHz (48kHz default)
 - BUffer size: configurable, 128/256/512/1024 (256 default)
-- Latency: ~10ms measured with an oscilloscope with 256 buffer size
+- Latency: ~10ms measured with an oscilloscope @ 48kHz, 256 buffer size
 
 ### Board
 
