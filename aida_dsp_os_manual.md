@@ -166,6 +166,20 @@ If you need a tutorial, you can follow [this](https://www.raspberrypi.org/docume
 
 If you want to check for new images, poll [this]() page.
 
+## Troubleshooting
+
+System has been kept as simple and linear as possible, but since many combinations of factors could occour, what to do?
+
+1. Leave the board powered at least one hour since the problem occours
+2. Start the board in USB mass storage mode (see specific section) and copy folder .oldlogs to your Pc
+3. Contact the Aida DSP customer service [Facebook](https://www.facebook.com/official.AidaDSP)
+4. Provide to the customer service the following files/informations:
+  * .oldlogs folder in a .zip archive
+  * informations on how to replicate the problem (if any)
+
+We really hope it will never happens, but we need to be prepared. [This]() is a list of common problems during
+the usage of Aida DSP OS, with the suggested solutions. 
+
 ## Specifications
 
 ### Audio
