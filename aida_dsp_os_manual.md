@@ -78,6 +78,15 @@ Aida DSP OS should start with the new configuration
 
 ### Puredata mode
 
+## Software Update
+
+At the moment the procedure of software update consists in you downloading the new
+binary image from a given link and then proceed to burn it to a valid SD Card (>= 32GB).
+The process is not different from what's done with a Raspberry Pi board. If you are on _**Windows**_, [balenaEtcher](https://www.balena.io/etcher/)
+works fine. On _**Linux**_ you have [dd](https://en.wikipedia.org/wiki/Dd_(Unix))
+
+If you need a tutorial, you can follow [this](https://www.raspberrypi.org/documentation/installation/installing-images/) link.
+
 ## Specifications
 
 ### Audio
@@ -87,6 +96,14 @@ Aida DSP OS should start with the new configuration
 - Sampling rate: configurable, 48/96/192kHz (48kHz default)
 - BUffer size: configurable, 128/256/512/1024 (256 default)
 - Latency: ~10ms measured with an oscilloscope with 256 buffer size
+
+### Board
+
+- Quad-core 1GHz ARM Cortex-A53 cpu (64-bit)
+- 1GB DDR3 RAM
+- 32GB flash (SD Card)
+- USB 2.0
+- 10/100/1000 Ethernet
 
 ### OLED
 
