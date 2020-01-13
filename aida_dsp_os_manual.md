@@ -202,7 +202,7 @@ the usage of Aida DSP OS, with the suggested solutions.
 
 - Quad-core 1GHz ARM Cortex-A53 cpu (64-bit)
 - 1GB DDR3 RAM
-- 32GB flash (SD Card)
+- 32GB flash (SD Card read/write speed 95/20 MB/s)
 - USB 2.0
 - 10/100/1000 Ethernet
 
