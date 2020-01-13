@@ -68,7 +68,7 @@ have a low noise USB 5V supply port (i.e. for USB souncard in recording studios)
 ### Resources
 
 - [Quick start]()
-- [Manual V1.00]()
+- [Manual V1.00](aida_dsp_os_manual.md)
 - **Where to BUY:** [Tindie](https://www.tindie.com/products/Maxdsp/aida-dsp-os/)
 - [SDK](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
 - [SD Image V1.00]()
