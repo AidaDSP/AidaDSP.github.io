@@ -1,5 +1,4 @@
 ---
-image: assets/images/aida_dsp_os1.jpg
 description: Nobody read manuals nowadays. For those who do instead.
 ---
 
