@@ -177,7 +177,7 @@ like the volume (soundfonts may have huge differences in volume between each oth
 
 #### Home page
 
-![Aida DSP OS front](assets/images/aida_dsp_os_soundfont_player_mode.jpg)
+![Aida DSP OS soundfont player home page](assets/images/aida_dsp_os_soundfont_player_mode.jpg)
 
 In the 'HOME' page is displayed the selected bank followed by the instrument. The structure of the soundfont in the image above is
 
@@ -228,6 +228,8 @@ In this mode you can either
 ### Available hmi pages in Mod Duo mode
 
 #### Home page
+
+![Aida DSP OS Mod Duo home page](assets/images/aida_dsp_os_modduo_mode1.jpg)
 
 See which pedalboard is loaded
 
