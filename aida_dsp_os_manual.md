@@ -188,7 +188,7 @@ In the 'HOME' page is displayed the selected bank followed by the instrument. Th
         └── rhodes.sfz
 ```
 
-at the bottom of the home page is displayed the current selected midi channel for this bank
+at the bottom of the home page is displayed the current active midi channel
 
 Switch | Short Press | Long Press (> 1 sec)
 ------------ | ------------- | -------------
