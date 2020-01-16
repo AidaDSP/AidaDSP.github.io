@@ -267,7 +267,10 @@ and adjust an existing pedalboard, edit it to your needs and save it.
 For in-depth explanation, please refer to [wiki](https://wiki.moddevices.com/wiki/MOD_Web_GUI_User_Guide)
 
 ---
-**NOTE**
+**NOTES**
+
+The wiki mentions a usb connection to use the web editor. This is not needed with Aida DSP OS just
+connect the ethernet cable to the ethernet port of Aida DSP OS.
 
 You need a html5 compatible browser to use the web editor. In practice you can use
 stable versions of Chrome, Firefox and Safari.
