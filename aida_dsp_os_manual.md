@@ -266,8 +266,8 @@ and adjust an existing pedalboard, edit it to your needs and save it.
 
 [ ![](assets/images/aida_dsp_os_modduo_mode2_small.jpg) ](assets/images/aida_dsp_os_modduo_mode2_large.png)
 
-* The velvet jacks are the audio input (left) and the audio output (right)
-* The pale blue jack on the bottom-left of the web editor is the optoisolated midi input of Aida DSP OS
+* The velvet jacks are the audio input (left) and the audio outputs (right)
+* The pale blue jack on the bottom-left of the web editor is the optoisolated midi input
 
 For in-depth explanation, please refer to [wiki](https://wiki.moddevices.com/wiki/MOD_Web_GUI_User_Guide)
 
