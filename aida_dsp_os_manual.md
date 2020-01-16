@@ -87,7 +87,7 @@ When you finished to edit the configuration file, save it before exit and restar
 
 Aida DSP OS should now start with the new configuration active.
 
-### How files are organized in the DATA partition
+### How files are organized in the exposed partition
 
 ```
 .
