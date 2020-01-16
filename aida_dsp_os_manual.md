@@ -159,7 +159,7 @@ but it will also work in a new path like
 ### Buttons behaviour in hmi
 
 K1, K2 and K3 are managed as time controlled buttons. Exact behaviour depends on the mode and the page where you are: the first
-page displayed in a mode after power on is the home.
+page displayed in all the modes after power on is the home.
 
 ### Soundfont player mode
 
