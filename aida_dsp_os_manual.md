@@ -273,7 +273,7 @@ The wiki mentions a usb connection to use the web editor. This is not needed wit
 connect the ethernet cable to the ethernet port of Aida DSP OS.
 
 You need a html5 compatible browser to use the web editor. In practice you can use
-stable versions of Chrome, Firefox and Safari.
+stable versions of Chrome, Firefox or Safari.
 
 ---
 
