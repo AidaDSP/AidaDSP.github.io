@@ -156,6 +156,11 @@ but it will also work in a new path like
 
 .soundfonts/sfz/MySamples
 
+### Buttons behaviour in hmi
+
+K1, K2 and K3 are managed as time controlled buttons. Exact behaviour depends on the mode and the page where you are: the first
+page displayed in a mode after power on is the home.
+
 ### Soundfont player mode
 
 When started in this mode, Aida DSP OS is usable as a soundfont player. Soundfont is a sample-based synthesis controlled via midi.
@@ -168,10 +173,7 @@ On Aida DSP OS you have nearly ~4GB of instruments to choose with. You can view 
 The hmi in this mode lets you select the soundfont (instrument) you want to play. In addition to that, it lets you adjust other settings
 like the volume (soundfonts may have huge differences in volume between each others) or the midi channel
 
-#### Button behaviour
-
-When in soundfont mode, K1, K2 and K3 are managed as time controlled buttons. Exact behaviour depends on the page where you are: the first
-page displayed after power on is the home.
+### Available hmi pages in soundfont player mode
 
 #### Home page
 
@@ -192,29 +194,104 @@ at the bottom of the home page is displayed the current active midi channel
 
 Switch | Short Press | Long Press (> 1 sec)
 ------------ | ------------- | -------------
-K1 | Undefined | Undefined
-K2 | To select page | Undefined
-K3 | To options page | Undefined
+K1 | Nothing | Nothing
+K2 | To select page | Nothing
+K3 | To options page | Nothing
 
 #### Select page(s)
+
+These pages serves to select the instrument you want to play. 
 
 Switch | Short Press | Long Press (> 1 sec)
 ------------ | ------------- | -------------
 K1 | Up | Back to prev. page
-K2 | Select bank or instr. | Undefined
-K3 | Down | Undefined
+K2 | Select bank or instr. | Nothing
+K3 | Down | Nothing
 
 #### Options
+
+For midichannel settings, volume settings and so on
 
 Switch | Short Press | Long Press (> 1 sec)
 ------------ | ------------- | -------------
 K1 | Up/Incr. | Back to prev. page
-K2 | Select option | Undefined
-K3 | Down/Decr. | Undefined
+K2 | Select option | Nothing
+K3 | Down/Decr. | Nothing
 
 ### Mod-Duo mode
 
+In this mode you can either
+
+1. Use the hmi to load a virtual pedalboard
+2. Connect with ethernet cable with your Pc to use Mod Duo web editor (http://10.10.10.1:8888)
+
+### Available hmi pages in Mod Duo mode
+
+#### Home page
+
+See which pedalboard is loaded
+
+Switch | Short Press | Long Press (> 1 sec)
+------------ | ------------- | -------------
+K1 | Nothing | Nothing
+K2 | To select page | Nothing
+K3 | To resource monitor | Nothing
+
+#### Select page(s)
+
+Select virtual pedalboard to load
+
+Switch | Short Press | Long Press (> 1 sec)
+------------ | ------------- | -------------
+K1 | Back to home page | Nothing
+K2 | Load selected pedalboard | Nothing
+K3 | Scroll down list | Nothing
+
+#### Resource monitor
+
+Shows CPU and RAM usage
+
+Switch | Short Press | Long Press (> 1 sec)
+------------ | ------------- | -------------
+K1 | Back to home page | Nothing
+K2 | Nothing | Nothing
+K3 | Nothing | Nothing
+
 ### Puredata mode
+
+In this mode you can select the pd patch and load it
+
+### Available hmi pages in puredata mode
+
+#### Home page
+
+See which patch is loaded
+
+Switch | Short Press | Long Press (> 1 sec)
+------------ | ------------- | -------------
+K1 | Nothing | Nothing
+K2 | To select page | Nothing
+K3 | To resource monitor | Nothing
+
+#### Select page(s)
+
+Select pd patch to load
+
+Switch | Short Press | Long Press (> 1 sec)
+------------ | ------------- | -------------
+K1 | Back to home page | Nothing
+K2 | Load selected patch | Nothing
+K3 | Scroll down list | Nothing
+
+#### Resource monitor
+
+Shows CPU and RAM usage
+
+Switch | Short Press | Long Press (> 1 sec)
+------------ | ------------- | -------------
+K1 | Back to home page | Nothing
+K2 | Nothing | Nothing
+K3 | Nothing | Nothing
 
 ## Software Update
 
