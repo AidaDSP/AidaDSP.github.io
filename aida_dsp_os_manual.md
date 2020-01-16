@@ -1,5 +1,5 @@
 ---
-description: Nobody read manuals nowadays. For those who do instead.
+description: Complete and detailed informations on how to use the board
 ---
 
 # Aida DSP OS User Manual
