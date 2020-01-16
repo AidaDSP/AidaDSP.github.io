@@ -264,7 +264,7 @@ K3 | Nothing | Nothing
 You can use the Mod Duo web editor to create a virtual pedalboard, to select
 and adjust an existing pedalboard, edit it to your needs and save it.
 
-[ ![](aida_dsp_os_modduo_mode2_small.jpg) ](aida_dsp_os_modduo_mode2_large.png)
+[ ![](assets/images/aida_dsp_os_modduo_mode2_small.jpg) ](assets/images/aida_dsp_os_modduo_mode2_large.png)
 
 For in-depth explanation, please refer to [wiki](https://wiki.moddevices.com/wiki/MOD_Web_GUI_User_Guide)
 
