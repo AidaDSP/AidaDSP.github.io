@@ -168,6 +168,50 @@ On Aida DSP OS you have nearly ~4GB of instruments to choose with. You can view 
 The hmi in this mode lets you select the soundfont (instrument) you want to play. In addition to that, it lets you adjust other settings
 like the volume (soundfonts may have huge differences in volume between each others) or the midi channel
 
+#### Button behaviour
+
+When in soundfont mode, K1, K2 and K3 are managed as time controlled buttons. Exact behaviour depends on the page where you are: the first
+page displayed after power on is the home.
+
+#### Home page
+
+![Aida DSP OS front](assets/images/aida_dsp_os_soundfont_player_mode.jpg)
+
+In the 'HOME' page is displayed the selected bank followed by the instrument. The structure of the soundfont in the image above is
+
+```
+.
+└── Electric Piano
+    └── StereoRhodes
+        ├── 1_B_1r.wav
+        ├── ...
+        └── rhodes.sfz
+```
+
+at the bottom of the home page is displayed the current selected midi channel for this bank
+
+Switch | Short Press | Long Press (> 1 sec)
+------------ | ------------- | -------------
+K1 | Undefined | Undefined
+K2 | To select page | Undefined
+K3 | To options page | Undefined
+
+#### Select page(s)
+
+Switch | Short Press | Long Press (> 1 sec)
+------------ | ------------- | -------------
+K1 | Up | Back to prev. page
+K2 | Select bank or instr. | Undefined
+K3 | Down | Undefined
+
+#### Options
+
+Switch | Short Press | Long Press (> 1 sec)
+------------ | ------------- | -------------
+K1 | Up/Incr. | Back to prev. page
+K2 | Select option | Undefined
+K3 | Down/Decr. | Undefined
+
 ### Mod-Duo mode
 
 ### Puredata mode
