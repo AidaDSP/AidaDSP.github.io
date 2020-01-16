@@ -259,6 +259,21 @@ K1 | Back to home page | Nothing
 K2 | Nothing | Nothing
 K3 | Nothing | Nothing
 
+### Mod Duo web editor
+
+You can use the Mod Duo web editor to create a virtual pedalboard, to select
+and adjust an existing pedalboard, edit it to your needs and save it.
+
+For in-depth explanation, please refer to [wiki](https://wiki.moddevices.com/wiki/MOD_Web_GUI_User_Guide)
+
+---
+**NOTE**
+
+You need a html5 compatible browser to use the web editor. In practice you can use
+stable versions of Chrome, Firefox and Safari.
+
+---
+
 ### Puredata mode
 
 In this mode you can select the pd patch and load it
