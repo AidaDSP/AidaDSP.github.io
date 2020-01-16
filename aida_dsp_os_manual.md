@@ -319,7 +319,7 @@ K3 | Nothing | Nothing
 
 At the moment the procedure of software update consists in you downloading the new
 binary image from a given link and then proceed to burn it to a valid SD Card (>= 32GB).
-The process isn't so different (if not the same) from what's currently done with a Raspberry Pi SD Card. If you are on _**Windows**_, we tried [balenaEtcher](https://www.balena.io/etcher/) and works just fine. On _**Linux**_ you have [dd](https://en.wikipedia.org/wiki/Dd_(Unix)).
+The process isn't so different (if not the same) from what's currently done with a Raspberry Pi SD Card. If you are on _**Windows**_, we tested [balenaEtcher](https://www.balena.io/etcher/) and worked just fine. On _**Linux**_ we use [dd](https://en.wikipedia.org/wiki/Dd_(Unix)).
 
 If you need a step-by-step tutorial, you can follow [this](https://www.raspberrypi.org/documentation/installation/installing-images/) link.
 
