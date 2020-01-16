@@ -6,17 +6,22 @@ description: Nobody read manuals nowadays. For those who do instead.
 
 ## Connections
 
+![Aida DSP OS front](assets/images/aida_dsp_os_front.jpg)
+![Aida DSP OS back](assets/images/aida_dsp_os_back.jpg)
+![Aida DSP OS top](assets/images/aida_dsp_os_top.jpg)
+
 1. Front panel, from left to right
   * input audio mono (6.5mm jack, high impedance)
   * USB host port for USB midi devices (USB type A female connector)
   * Ethernet port (RJ-45 socket)
   * midi in (standard 5 poles din connector optoisolated)
-1. Rear panel, from left to right
+
+2. Back panel, from left to right
   * uart port (4 pin pinheader connector, arduino nano pinout )
   * USB micro supply port
   * SD-Card slot
   * output audio stereo (3.5mm jack, line level)
-2. Top panel
+3. Top panel
   * OLED Display
   * three buttons: K1 (left), K2 (center), K3 (right)
 
@@ -50,7 +55,7 @@ with _**all**_ the contacts
 
 ---
 
-1. Connect USB rear supply port to Pc with a USB data cable and press central button (K2)
+1. Connect USB back supply port to Pc with a USB data cable and press central button (K2)
 2. On Aida DSP OS' display should appear "USB mass storage mode"
 3. In your Pc explore the new usb mass storage device
 4. Open file under .config/config with a simple text editor
