@@ -266,6 +266,9 @@ and adjust an existing pedalboard, edit it to your needs and save it.
 
 [ ![](assets/images/aida_dsp_os_modduo_mode2_small.jpg) ](assets/images/aida_dsp_os_modduo_mode2_large.png)
 
+* The velvet jacks are the audio input (left) and the audio output (right)
+* The pale blue jack on the bottom-left of the web editor is the optoisolated midi input of Aida DSP OS
+
 For in-depth explanation, please refer to [wiki](https://wiki.moddevices.com/wiki/MOD_Web_GUI_User_Guide)
 
 ---
@@ -273,6 +276,9 @@ For in-depth explanation, please refer to [wiki](https://wiki.moddevices.com/wik
 
 The wiki mentions a usb connection to use the web editor. This is not needed with Aida DSP OS just
 connect the ethernet cable to the ethernet port of Aida DSP OS.
+
+Installed on the board you can find a plugin called _**Level Meter**_ you can use it to monitor internal volumes in any
+point of the pedalboard.
 
 You need a html5 compatible browser to use the web editor. In practice you can use
 stable versions of Chrome, Firefox or Safari.
