@@ -1,0 +1,29 @@
+title: Aida DSP
+description: We are a startup focusing on digital audio processing. We offer innovative products and consulting services.
+logo: assets/images/aida_dsp_logo1.png
+show_downloads: false
+
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://aidadsp.github.io" # change this to the base hostname & protocol for your site
+
+google_analytics: UA-150273545-1
+
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: Massimo Pennazio
+facebook:
+  pagename: official.AidaDSP
+
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['products', 'about', 'contact', 'resources']
