@@ -58,8 +58,7 @@ is installed on the board (forget antivirus popups or security ads or advertisem
 
 ### Not included
 
-- Power supply: 5V/2A. You can use a standard 2A phone charger with micro USB connector, or a [Raspberry Pi's adapter](https://www.amazon.it/Aukru-Alimentatore-Raspberry-modello-Modello/dp/B01566WOAG/ref=sr_1_8?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=raspberry+pi+supply&qid=1569943965&s=gateway&sr=8-8). Optionally if you
-have a low noise USB 5V supply port (i.e. for USB souncard in recording studios) would be even better.
+- Power supply: 5V/2A. You can use a standard 2A phone charger with micro USB connector, or a [Raspberry Pi's adapter](https://www.amazon.it/Aukru-Alimentatore-Raspberry-modello-Modello/dp/B01566WOAG/ref=sr_1_8?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=raspberry+pi+supply&qid=1569943965&s=gateway&sr=8-8). Power banks for mobile phones also work very well and help avoiding ground loops.
 - Midi/audio cables
 
 ### Dimensions
