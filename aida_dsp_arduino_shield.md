@@ -44,7 +44,7 @@ own audio effect without sacrifycing the sound quality
 - Tone and noise generators
 - Fixed and variable gain
 - Loudness
-- Delay 
+- Delay
 - Stereo enhancement
 - Dynamic bass boost
 - FIR & IIR filters
@@ -59,7 +59,7 @@ own audio effect without sacrifycing the sound quality
 - [Arduino Libraries](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Libraries)
 - [Java Tools](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Java)
 - [Hardware specs & additional informations](https://github.com/AidaDSP/AidaDSP/tree/master/Hardware)
-- [Wiki](https://github.com/AidaDSP/AidaDSP/wiki)
+- [Wiki](https://github.com/AidaDSP/AidaDSP.github.io/wiki)
 - **Where to BUY:** [Tindie](https://www.tindie.com/products/Maxdsp/aida-dsp-arduino-shield/)
 - [Follow us on **Facebook**](https://www.facebook.com/official.AidaDSP)
 
