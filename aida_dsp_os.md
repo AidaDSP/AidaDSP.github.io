@@ -78,11 +78,12 @@ is installed on the board (forget antivirus popups or security ads or advertisem
 - **Where to BUY:** [Tindie](https://www.tindie.com/products/Maxdsp/aida-dsp-os/)
 - [SDK](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
 - [SD Image V1.00]()
+- [SD Image V1.01]()
 
 ### Media
 
 - [Gallery]()
-- [Video 1](https://www.youtube.com)
+- [Video 1: Rhodes piano](https://www.youtube.com/watch?v=kfzPL0KXjlY)
 - [Mod Duo mode](https://www.youtube.com)
 - [Sampler mode](https://www.youtube.com)
 - [Puredata mode](https://www.youtube.com)
