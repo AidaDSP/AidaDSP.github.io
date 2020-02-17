@@ -13,11 +13,12 @@ order: 0
 ## Aida DSP Arduino Shield
 
 Aida DSP is an audio shield for Arduino for those who wants to learn or teach _**STEM**_, and for _DIYers_ who want to just make their
-own audio effect without sacrifycing the sound quality
+own audio effect without sacrifice the sound quality
 
 ### Specs
 - Compact design size (Arduino shield form factor)
 - Low noise design for audio applications
+- Low latency less than 1ms guaranteed
 - 2 mono inputs 4 mono outputs
 - Pro audio A/D D/A conversion: 24 bits, 48/96/192kHz
 - Dedicated crimpable connectors to host encoder, buttons and pots
