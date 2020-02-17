@@ -49,6 +49,23 @@ To power on Aida DSP OS, connect _**USB micro supply port**_ to a proper supply 
 3. Raspberry Pi power adapter
 4. The USB port of your laptop Pc (you'll need a male USB micro to female USB type-A cable)
 
+---
+**NOTE**
+
+_**Troubleshooting power supply issues**_
+
+Symptoms of power supply failure are:
+1. Aida DSP OS seems freezed and doesn't react to button press
+2. Aida DSP OS audio is noisy or not present
+
+Common solutions:
+1. Check the minimum power requirements of your USB midi controller. _Golden rule_: if your USB midi
+keyboard has more than 16 keys then it's better to power the keyboard using its own adapter, otherwise the current
+drawn from Aida DSP OS board could cause malfunctioning
+2. Avoid groud loops and if not possible use a mobile phone power bank to supply Aida DSP OS
+
+---
+
 ### USB mass storage mode
 
 In this mode Aida DSP OS can be connected to a Pc for transferring files or change default system configuration.
