@@ -48,8 +48,11 @@ package:
 - High definition audio codec with ultra low noise clock source
 - RT Preempt kernel means low and stable audio latency (10ms or less).
 - Operative system realized with Yocto means higher system stability: no unuseful software
-is installed on the board (forget antivirus popups or security ads or advertisements of any kind)
-- Advanced partitioning: the filesystem is partitioned to increase disk streaming performance and no write is performed during operation (prevents sd card damage)
+is installed on the board (this board is not running _Raspbian_ or _Ubuntu_ or _Armbian_ or whatever which are general purpose distributions). Aida DSP OS
+is a custom distribution and the focus of the project is obtaining the best performance for audio processing/synthesis.
+- Intelligent partitioning: the sd card is partitioned with all the plugins, samples and patches in the same FAT32 partition, so that
+can be easily mounted and accessed also by non-linux systems. This also saves from messing up the core filesystem that would prevent the booting of the board.
+- Reliable operation: no write on the core filesystem is performed during operation (prevents sd card damage). Logs are stored in RAM and rotated in a safe way hourly.
 - Based on open source software:
   * create your soundfont in SFZ format. How-to [here]({{ '/howto_make_your_own_sfz_soundfont.html' | absolute_url }})
   * develop your own plugin using the sdk provided. How-to [here]({{ '/howto_sdk_lv2_plugins.html' | absolute_url }})
