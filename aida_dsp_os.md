@@ -48,10 +48,10 @@ package:
 - High definition audio codec with ultra low noise clock source
 - RT Preempt kernel means low and stable audio latency (10ms or less).
 - Operative system realized with Yocto means higher system stability: no unuseful software
-is installed on the board (this board is not running _Raspbian_ or _Ubuntu_ or _Armbian_ or whatever which are general purpose distributions). Aida DSP OS
+is installed on the board (this board is not running _Raspbian_ or _Ubuntu_ or _Armbian_ or a whatsoever general purpose distribution). Aida DSP OS
 is a custom distribution and the focus of the project is obtaining the best performance for audio processing/synthesis.
 - Intelligent partitioning: the sd card is partitioned with all the plugins, samples and patches in the same FAT32 partition, so that
-can be easily mounted and accessed also by non-linux systems. This also saves from messing up the core filesystem that would prevent the booting of the board.
+can be easily mounted and accessed also by non-linux systems. This also saves from messing up the core filesystem that would prevent the board's booting.
 - Reliable operation: no write on the core filesystem is performed during operation (prevents sd card damage). Logs are stored in RAM and rotated in a safe way hourly.
 - Based on open source software:
   * create your soundfont in SFZ format. How-to [here]({{ '/howto_make_your_own_sfz_soundfont.html' | absolute_url }})
@@ -87,9 +87,10 @@ can be easily mounted and accessed also by non-linux systems. This also saves fr
 
 - [Gallery]()
 - [Video 1: Rhodes piano](https://www.youtube.com/watch?v=kfzPL0KXjlY)
-- [Mod Duo mode](https://www.youtube.com)
-- [Sampler mode](https://www.youtube.com)
-- [Puredata mode](https://www.youtube.com)
+- [Video 2: Live usage with a loop station](https://www.youtube.com/watch?v=8az4FD6caq4)
+- [Mod Duo mode](https://www.youtube.com/channel/UCHDkEU3hgz7rVfUCDqRAoJQ)
+- [Sampler mode](https://www.youtube.com/channel/UCHDkEU3hgz7rVfUCDqRAoJQ)
+- [Puredata mode](https://www.youtube.com/channel/UCHDkEU3hgz7rVfUCDqRAoJQ)
 
 ### Powered by
 
@@ -106,7 +107,6 @@ can be easily mounted and accessed also by non-linux systems. This also saves fr
 ### Credits
 
 This product would not exists without the impressive work of the guys at **Moddevices**
-and the big community that they created around their product. We want to actively contribute to the Mod Duo
-community and software and we're looking for the best options to do so.
+and the big community that they created around their product. Last but not least, Aida DSP OS wouldn't exist without open source software. We want to actively contribute to the Mod Duo community and the opensource software and we're looking for the best options to do so.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
