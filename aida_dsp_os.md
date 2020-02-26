@@ -107,6 +107,6 @@ can be easily mounted and accessed also by non-linux systems. This also saves fr
 ### Credits
 
 This product would not exists without the impressive work of the guys at **Moddevices**
-and the big community that they created around their product. Last but not least, Aida DSP OS wouldn't exist without open source software. We want to actively contribute to the Mod Duo community and the opensource software and we're looking for the best options to do so.
+and the big community that they created around their product. Last but not least, Aida DSP OS wouldn't exist without open source software. We want to actively contribute to the Mod Duo community and the open source software and we're looking for the best options to do so.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
