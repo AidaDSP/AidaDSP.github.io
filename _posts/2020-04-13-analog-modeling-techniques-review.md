@@ -97,7 +97,7 @@ block is the opposite: to return back to the original system sampling frequency 
 Upsampling is a CPU-intensive task, because the algorithm will run at 2x, 4x or 8x speed. Since the guitar's voice is well below 12kHz (someone says 6kHz) we can avoid upsampling
 by introducing a low-pass filter before the nonlinearity. In addition to that we can rise the overall system sampling frequency to still have the 8x factor (96kHz/12kHz=8).
 
-The image below summarize the two approachs:
+The following image summarizes the two approaches:
 
 ![anti-aliasing](anti-aliasing-1.png)
 
