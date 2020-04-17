@@ -56,7 +56,7 @@ representing the TS9 overdrive effect:
 ![TS9](overdrive-effect-1.png)
 
 the distortion characteristic of the TS9 has been implemented with a static nonlinearity, this time derived
-directly from the equations of the circuit. You can notice that a portion of the _'clean'_ signal is mixed back with
+directly from the equations of the circuit. Notice a portion of the _'clean'_ signal is mixed back with
 the distorted one: it's typical of overdrive effects and is the key difference with distortion effects where the
 the signal is not splitted and passes 100% through the nonlinear stage.
 
