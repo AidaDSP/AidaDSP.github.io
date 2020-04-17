@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Analog modeling techniques review"
+title: "Analog modeling techniques review [1]"
 ---
 
-In this article I'll try to make a review of the current available
+In this series of articles I'll try to make a review of the current available
 analog modeling techniques that are used extensively both in hardware (digital stompboxes or pedalboards)
 and in software plugins.
 
@@ -16,7 +16,7 @@ is used in current commercial products.
 Such models exhibit a high degree of accuracy, but require detailed knowledge of
 the circuit and its nonlinear components.
 
-* _**Black-box**_ modeling is based on input-output measurements of the device under study. 
+* _**Black-box**_ modeling is based on input-output measurements of the device under study.
 Black-box can be used to emulate different nonlinear systems,
 but it typically fails to emulate the system as accurately as a
 white-box model, leading to an audible difference between
@@ -32,7 +32,7 @@ enough computation power to solve the equations involved with such analog circui
 complete the calculation of each voltage or current in the circuit nodes at the frequency requested by an high
 quality A/D to D/A conversion. That's why various techniques to aproximate the solution of the most
 complex parts of the analog circuits have been developed. And that's why we are always referring to the digital as a
-simulation, and people claims they're hearing differences between analog circuits and their digital counterparts.
+simulation, with people that claims for audible differences between analog circuits and their digital counterparts.
 
 # Waveshaping
 
@@ -101,11 +101,13 @@ The image below summarize the two approachs:
 
 ![anti-aliasing](anti-aliasing-1.png)
 
-# Wave digital filters
+# What's next
 
-# Profiling
+In the next articles we'll discuss, among others, about:
 
-# Deep learning
+* Wave digital filters
+* Profiling
+* Deep learning
 
 ---
 **APPENDIX**
