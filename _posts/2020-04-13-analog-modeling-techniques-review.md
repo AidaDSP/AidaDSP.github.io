@@ -76,7 +76,7 @@ from the original response of the real circuit, since we're loosing the phase ro
 specific circuit exists and will be discussed in a following article. In general terms, it's important to measure such deviations during algorithm design.
 
 If we keep deviations sufficiently low, that in audio terms means _**below the noise floor of the original circuit**_, then the digital version
-will be indistinguishable from the original.
+will be indistinguishable.
 
 # Aliasing
 
