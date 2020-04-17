@@ -71,7 +71,7 @@ voltage depends on the _**'history'**_ of the input signal:
 
 ![diode-clipper](diode-clipper-1.png)
 
-To model the nonlinear transfer function as static, the circuit is approximated by eliminating _**C**_. This semplification leads to a deviation
+To model the nonlinear transfer function as static, the circuit is approximated by eliminating _**C**_. This simplification leads to a deviation
 from the original response of the real circuit, since we're loosing the phase rotation introduced by the capacitor. A workaround for this
 specific circuit exists and will be discussed in a following article. In general terms, it's important to measure such deviations during algorithm design.
 
