@@ -103,18 +103,15 @@ The image below summarize the two approachs:
 
 # Wave digital filters
 
-
-
 # Profiling
 
 # Deep learning
 
-# Marketing vs transparency, closed source vs open source
-
 ---
-**NOTES**
+**APPENDIX**
 
-A more detailed mathematical analysis is out of scope for this article, and will be the central topic in dedicated future posts.
+A more detailed mathematical analysis is out of scope for this article, and will be the central topic in next articles, together
+with code examples, implementation ideas and so on. Please continue reading and supporting us thanks!
 
 1. C. Roads. A Tutorial on Non-linear Distortion or Waveshaping Synthesis.
 2. T. Yeh, J. Abel, and J. O. Smith. Simplified, physically-informed models of distortion and overdrive guitar effects pedals.
