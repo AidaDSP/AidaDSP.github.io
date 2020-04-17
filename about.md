@@ -22,6 +22,6 @@ In 2017 we started to develop the idea behind [Aida DSP Stompbox]({{ '/aida_dsp_
 
 In 2018 the first prototype of [Aida DSP OS]({{ '/aida_dsp_os.html' | absolute_url }}) was presented at [Torino Mini Maker Faire](https://torino.makerfaire.com), where it captured the attention of the public. This new technology, greatly based on open source software, was like new life for us and its potential refreshed our motivation.
 
-Today we are trying to grow up as a startup by searching new exciting possibilities and we further focus our competencies in the digital audio and embedded systems domains.
+Today we want to grow up as a startup by actively searching new exciting possibilities and further focusing our competencies in digital audio and real-time embedded systems.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
