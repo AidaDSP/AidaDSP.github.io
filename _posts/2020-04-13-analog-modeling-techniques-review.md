@@ -60,7 +60,7 @@ directly from the equations of the circuit. You can notice that a portion of the
 the distorted one: it's typical of overdrive effects and is the key difference with distortion effects where the
 the signal is not splitted and passes 100% through the nonlinear stage.
 
-Approximation of a nonlinearity as _**'memoryless'**_ or _**'static'**_ is a powerful, straightforward, technique but has its limits.
+Approximation of a nonlinearity as _**'memoryless'**_ or _**'static'**_ is a straightforward technique, but has its limits.
 
 In real analog circuits we usually have on or more reactive components (capacitors, inductors) being part
 of the differential equation that describes the nonlinear part of the circuit. Sometimes they are physical components, like
