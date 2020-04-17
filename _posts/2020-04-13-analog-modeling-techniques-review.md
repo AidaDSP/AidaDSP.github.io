@@ -7,17 +7,17 @@ In this article I'll try to make a review of the current available
 analog modeling techniques that are used extensively both in hardware (digital stompboxes or pedalboards)
 and in software plugins.
 
-I'll do this by reading of currently published papers on the argument and try to make connections with
-commercially available products, and finally try to classificate them by technologies used.
+I'll do this by referencing a selection of academic papers on the argument and try to guess what kind of technology
+is used in current commercial products.
 
 # White-box vs black-box
 
-White-box modeling is based on circuit analysis and simulation.
+* _**White-box**_ modeling is based on circuit analysis and simulation.
 Such models exhibit a high degree of accuracy, but require detailed knowledge of
 the circuit and its nonlinear components.
 
-Black-box modeling is based on input-output measure-
-ments of the device under study. Black-box can be used to emulate different nonlinear systems,
+* _**Black-box**_ modeling is based on input-output measurements of the device under study. 
+Black-box can be used to emulate different nonlinear systems,
 but it typically fails to emulate the system as accurately as a
 white-box model, leading to an audible difference between
 the model and the device under study.
@@ -32,7 +32,7 @@ enough computation power to solve the equations involved with such analog circui
 complete the calculation of each voltage or current in the circuit nodes at the frequency requested by an high
 quality A/D to D/A conversion. That's why various techniques to aproximate the solution of the most
 complex parts of the analog circuits have been developed. And that's why we are always referring to the digital as a
-simulation, and people claims they're hearing differences between analog, real circuits and their digital counterparts.
+simulation, and people claims they're hearing differences between analog circuits and their digital counterparts.
 
 # Waveshaping
 
@@ -60,11 +60,11 @@ directly from the equations of the circuit. You can notice that a portion of the
 the distorted one: it's typical of overdrive effects and is the key difference with distortion effects where the
 the signal is not splitted and passes 100% through the nonlinear stage.
 
-Approximation of all nonlinearities as _**'memoryless'**_ or _**'static'**_ is a powerful, straightforward, technique but has its limits.
+Approximation of a nonlinearity as _**'memoryless'**_ or _**'static'**_ is a powerful, straightforward, technique but has its limits.
 
-In real analog circuits we usually have on or more reactive components (capacitors, inductors) which are part
+In real analog circuits we usually have on or more reactive components (capacitors, inductors) being part
 of the differential equation that describes the nonlinear part of the circuit. Sometimes they are physical components, like
-in the next proposed example, but they could also be present in the form of parasitic capacitances/inductances.
+in the next proposed example, but they could also be present in the form of _**parasitic capacitances/inductances**_.
 
 For example, looking at the figure below, you can see that _**Vo**_ is the voltage accross _**C**_ and thus the output
 voltage depends on the _**'history'**_ of the input signal:
