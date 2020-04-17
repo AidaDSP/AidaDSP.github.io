@@ -62,8 +62,8 @@ signal is not splitted and passes 100% through the nonlinear stage.
 
 Approximation of a nonlinearity as _**'memoryless'**_ or _**'static'**_ is a straightforward technique, but has its limits.
 
-In real analog devices we usually have one or more reactive components (capacitors, inductors) being part
-of the differential equation that describes the nonlinear part of the circuit. Sometimes they are physical components, like
+In real analog circuits we usually have one or more reactive components (capacitors, inductors) being part
+of the differential equation that describes the nonlinear behaviour. Sometimes they are physical components, like
 in the next proposed example, but they could also be present in the form of _**parasitic capacitances/inductances**_.
 
 For example, looking at the figure below, you can see that _**Vo**_ is the voltage accross _**C**_ and thus the output
