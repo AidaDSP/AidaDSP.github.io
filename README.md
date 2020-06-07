@@ -225,15 +225,16 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 
 ### Running site in Docker
 
-1. host: $ docker run -it --name aidadsp-web -v /localdisk/massimo/Work/Git/myrepos/AidaDSP.github.io:/mnt/data ubuntu bash
-2. guest: $ apt-get update
-3. guest: $ apt-get install git build-essential ruby ruby-dev rubygems-integration zlib1g-dev
-4. guest: $ cd /mnt/data
-5. guest: $ ./script/bootstrap
-6. guest: $ bundle exec jekyll serve --host 172.17.0.2 --port 4000
-7. host: $ docker ps
-8. host: $ docker inspect aidadsp-web | grep IPAddress
-9. host: $ docker stop aidadsp-web
-10. host: $ docker rm aidadsp-web
-11. host: $ docker rm ubuntu
+1. host: $ cd ./docker
+2. host: $ ./aidadsp-web-docker /localdisk/massimo/Work/Git/myrepos/AidaDSP.github.io
+3. guest: $ cd /mnt/data
+4. guest: $ ./script/bootstrap
+5. guest: $ bundle exec jekyll serve --host 172.17.0.2 --port 4000
+
+### Useful Docker commands
+1. host: $ docker ps
+2. host: $ docker inspect aidadsp-web | grep IPAddress
+3. host: $ docker stop aidadsp-web
+4. host: $ docker rm aidadsp-web
+5. host: $ docker rm ubuntu
 

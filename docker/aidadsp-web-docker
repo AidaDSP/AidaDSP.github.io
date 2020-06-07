@@ -1,0 +1,15 @@
+#! /bin/bash
+set -e
+[ -n "$1" ] || { echo "arg expected: path to aidadsp-web git"; exit 1; }
+gitpath="$1"
+[ -f personality.json ] || {
+    mobyurl=https://raw.githubusercontent.com/moby/moby/master/profiles/seccomp
+    curl -sO $mobyurl/default.json
+    sed '/"pause",/a\\t\t\t\t"personality",' default.json > personality.json
+}
+docker build -qt aidadsp-web .
+docker run -it --rm --name aidadsp-web \
+       -v $gitpath:/mnt/data --security-opt \
+       seccomp=personality.json \
+       aidadsp-web \
+       bash
