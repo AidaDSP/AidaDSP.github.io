@@ -22,7 +22,7 @@ On _**Aida DSP OS**_ and in the _**Mod-Duo**_ you will find the excellent _**Dex
 
 [ ![](dexed1rev-small-size.png) ](dexed1rev-full-size.png)
 
-this plugin is a gem since it emulates the original sound of the Dx7 in an excellent way and is also open source.
+this plugin is a gem since it emulates the original sound of the Dx7 in a perfect way and it's also open source.
 
 # How to import Dx7's ROMs
 
