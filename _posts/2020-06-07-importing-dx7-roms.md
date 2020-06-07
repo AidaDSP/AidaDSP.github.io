@@ -3,9 +3,9 @@ layout: post
 title: "Importing Yamaha Dx7's ROMS"
 ---
 
-![Yamaha Dx7](yamaha-dx7.jpg)
-
 The [Yamaha Dx7](https://en.wikipedia.org/wiki/Yamaha_DX7) is a popular FM synthesizer that is a must have for electronic music enthusiasts (but this unit really spreads among a pletora of genres).
+
+![Yamaha Dx7](yamaha-dx7.jpg)
 
 By combining the controls of the Dx7 you can obtain different sounds ranging from electric pianos to bells or strings. You can also produce nice pads, of course.
 
