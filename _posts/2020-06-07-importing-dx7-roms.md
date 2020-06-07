@@ -28,9 +28,7 @@ this plugin is a gem since it emulates the original sound of the Dx7 in an excel
 
 You need a way to convert tool to convert the .SYX rom file into a .ttl preset file that you can copy on the board [1].
 
-I've made a script that does that for you [2]: I have tested it on _Linux Ubuntu_. It should be possible to run it in _Windows 10_ using the Ubuntu shell but
-
-I'll leave the tests for you.
+I've made a script that does that for you [2]: I have tested it on _Linux Ubuntu_. It should be possible to run it in _Windows 10_ using the Ubuntu shell but I'll leave the tests for you.
 
 On the [Aida DSP OS Share](https://drive.google.com/drive/folders/11b5uSavJboytXnDFgocN8cjFrTf7xIc7?usp=sharing) folder there is a dir named _**Dexed**_. You need
 
