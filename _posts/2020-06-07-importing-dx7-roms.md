@@ -60,7 +60,7 @@ Enjoy!
 
 1. The plugin version of Dexed running on Aida DSP OS/Mod Duo is a stripped version
 which doesn't have the GUI to manually select a ROM file. The format that we need is .ttl (RDF), used to store presets among lv2 plugins. The advantage
-of this format versus the .SYX is that it's editable and readable by a human (ascii text).
+of this format against the .SYX is that it's editable and readable by a human (ascii text).
 2. Some credits here: this script relies on other scripts and tools which are open source and are part of Dexed sources that
 you can find [here](https://github.com/dcoredump/dexed). I've only modified these scripts to my needs.
 
