@@ -238,3 +238,18 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 4. host: $ docker rm aidadsp-web
 5. host: $ docker rm ubuntu
 
+### Image sizes in pixel
+
+Various image sizes guidelines
+
+- thumbnail (small size) 150x150
+- medium size 300x300
+- large size 1024x1024
+- home front header banner 1600x1050
+- team header banner 1600x1050
+- blog header banner 1800x960
+- blog post image 900x500
+
+Images for the web should be 72 dpi and RGB.
+Images for print should be 300 dpi and CMYK.
+
