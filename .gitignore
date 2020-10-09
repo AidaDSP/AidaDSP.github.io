@@ -5,3 +5,5 @@ Gemfile.lock
 *.gem
 vendor/*
 .jekyll-metadata
+docker/default.json
+docker/personality.json
