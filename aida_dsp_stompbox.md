@@ -1,5 +1,6 @@
 ---
 image: assets/images/aida_dsp_stompbox1.jpeg
+is_background_image: True
 description: An innovative stompbox using Aida DSP Arduino Shield technology.
 
 layout: page
