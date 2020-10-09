@@ -64,9 +64,14 @@
         {% assign page-tagline = page.tagline | escape  %}
         {% endif %}
         
-        <section class="page-header">
-            {% if page.layout == 'home' or page.layout == 'page'%}
-            <img src="{{ page.image | default: site.logo }}" srcset="{{ page.image | default: site.logo }} 1024w, {{ page.image | default: site.logo }} 640w, {{ page.image | default: site.logo }} 320w" sizes="(min-width: 1024px) 40vw, 90vw" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" />
+        {% if page.header_image %}
+        <section class="page-header-background-image" style="background-image: url({{ page.image }})">
+        {% else %}
+        <section class="page-header-standard">
+        {% endif %}
+            {% if page.header_image %}
+            {% else %}
+            <img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="header-image-responsive"/>
             {% endif %}
             <h1 class="project-name">{{ page-title }}</h1>
             <h2 class="project-tagline">{{ page-tagline }}</h2>

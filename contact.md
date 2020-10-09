@@ -1,5 +1,6 @@
 ---
-image: assets/images/contact1.jpeg
+image: assets/images/studera80rcmkii_1280x720.jpg
+header_image: True
 description:
 
 layout: page

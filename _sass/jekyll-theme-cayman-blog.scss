@@ -106,7 +106,7 @@ a {
   }
 }
 
-.page-header {
+.page-header-standard {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
@@ -123,6 +123,32 @@ a {
   @include small {
     padding: 2rem 1rem;
   }
+}
+
+.page-header-background-image {
+  color: $header-heading-color;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
+
+.header-image-responsive {
+  width: 10%;
+  max-width: 400px;
+  height: auto;
 }
 
 .project-name {
@@ -467,7 +493,5 @@ a {
       width: 36px;
       height: 36px;
     }
-
   } // social-icons
-
 }

@@ -1,6 +1,7 @@
 ---
 description:
-image: assets/images/products1.jpg
+image: assets/images/music-recording-studio-console-website-header_1280x375.jpg
+header_image: True
 
 layout: page
 title: Products
