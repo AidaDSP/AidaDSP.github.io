@@ -130,17 +130,18 @@ a {
   text-align: center;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
 
   @include large {
     padding: 5rem 6rem;
   }
 
   @include medium {
+    background-size: cover;
     padding: 3rem 4rem;
   }
 
   @include small {
+    background-size: cover;
     padding: 2rem 1rem;
   }
 }

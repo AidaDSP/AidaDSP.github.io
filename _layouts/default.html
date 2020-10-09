@@ -64,12 +64,12 @@
         {% assign page-tagline = page.tagline | escape  %}
         {% endif %}
         
-        {% if page.header_image %}
+        {% if page.is_background_image %}
         <section class="page-header-background-image" style="background-image: url({{ page.image }})">
         {% else %}
         <section class="page-header-standard">
         {% endif %}
-            {% if page.header_image %}
+            {% if page.is_background_image %}
             {% else %}
             <img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="header-image-responsive"/>
             {% endif %}

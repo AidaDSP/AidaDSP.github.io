@@ -1,6 +1,6 @@
 ---
 image: assets/images/studera80rcmkii_1280x720.jpg
-header_image: True
+is_background_image: True
 description:
 
 layout: page

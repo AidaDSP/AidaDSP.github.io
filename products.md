@@ -1,7 +1,7 @@
 ---
 description:
 image: assets/images/music-recording-studio-console-website-header_1280x375.jpg
-header_image: True
+is_background_image: True
 
 layout: page
 title: Products
