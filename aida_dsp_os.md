@@ -1,5 +1,5 @@
 ---
-image: assets/images/aida_dsp_os1.jpg
+image: assets/images/aida_dsp_os1_1600x1050.jpg
 is_background_image: True
 description:
 
@@ -35,6 +35,8 @@ _**soundfonts player**_ that you can use with your own samples, and a _**puredat
   * audio codec 24bit/48/96/192kHz
   * 64-bit internal processing
   * 32GB sd card (class 10 95MB/s read speed)
+
+![Aida DSP OS](assets/images/aida_dsp_os_front.jpg)
 
 ### What's included
 
