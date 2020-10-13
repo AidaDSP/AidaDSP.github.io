@@ -253,7 +253,3 @@ Various image sizes guidelines
 Images for the web should be 72 dpi and RGB.
 Images for print should be 300 dpi and CMYK.
 
-To scale images you can use this command on Linux:
-
-ffmpeg -i input.jpg -vf scale=1600:1050 output_1600x1050.png
-
