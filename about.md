@@ -1,6 +1,7 @@
 ---
 image: assets/images/aida_dsp_os4_large.jpg
 is_background_image: True
+is_background_image_darker: True
 description:
 
 layout: page
