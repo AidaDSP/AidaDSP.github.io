@@ -32,8 +32,8 @@ and more!
 them inside a pedal and you will forget about opening the Pc or installing your software to someone'else DAW.
 - Do you like the sound of some compressor presets that you use with your favourite plugin on your DAW? Together we can put them
 into a pedal, this will ease your job both while recording bands or during production, since the effect will be exactly in the position where it should be from the beginning
-- Are you a producer? It's easier to convince a musician to play through a stompbox since generally speaking they can be used
-together with their own instrumentation and is much easier for them to interface with it. But a the same time helps you in keeping that particular sound idea
+- Are you a producer? It's easier to convince a musician to play through a stompbox since they can be used
+together with their own instrumentation and they already know how to deal with it. But a the same time helps you in keeping that particular sound idea
 that you have in mind without using a lot of plugins on your DAW later.
 
 ### Endless options and combinations
