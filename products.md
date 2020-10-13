@@ -1,7 +1,8 @@
 ---
 description:
-image: assets/images/music-recording-studio-console-website-header_1280x375.jpg
+image: assets/images/aida_dsp_os5_large.jpg
 is_background_image: True
+is_background_image_darker: True
 
 layout: page
 title: Products

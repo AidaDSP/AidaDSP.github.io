@@ -1,5 +1,5 @@
 ---
-image: assets/images/studera80rcmkii_1280x720.jpg
+image: assets/images/aida_dsp_os4_large.jpg
 is_background_image: True
 description:
 

@@ -1,5 +1,5 @@
 ---
-image: assets/images/aida_dsp_stompbox1.jpeg
+image: assets/images/aida_dsp_stompbox1_large.jpg
 is_background_image: True
 description: An innovative stompbox using Aida DSP Arduino Shield technology.
 
@@ -22,6 +22,8 @@ Are you an owner of a recording studio, an audio professional or just an audio e
 _Aida DSP Stompbox_ we offer a product that can be customized upon request not only on the audio
 algorithm part, but also on a graphic level, including your logo, your custom name for your new pedal
 and more!
+
+![Aida DSP Stompbox](assets/images/aida_dsp_stompbox1_medium.jpg)
 
 ### Turn your audio expertise into a finalized product
 
@@ -47,7 +49,7 @@ that you had for their album
 
 ### Solid and durable
 
-We did a huge research among our suppliers to carefully select the components and we made 5 prototypes before arriving at the current one.
+We did a huge research among our suppliers to carefully select the components and we made a lot of prototypes before arriving at the current one.
 One example? We completely redesigned the electronics to use metallic premium quality knobs screwed onto the case instead of the plastic, pcb mounting ones that were present in the first prototype.
 
 ### Partners

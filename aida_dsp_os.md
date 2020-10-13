@@ -1,5 +1,5 @@
 ---
-image: assets/images/aida_dsp_os1_1600x1050.jpg
+image: assets/images/aida_dsp_os1_large.jpg
 is_background_image: True
 description:
 
@@ -16,6 +16,8 @@ order: 0
 Thanks to it's small size Aida DSP OS is the innovative product that is called to be a sostitute of your Pc in the music composition/production process: when you're going to do some rehersal, in the recording studio or on the road. It's based on the same
 technology of the renowned _**Mod Duo**_, a device presented at _NAMM 2017_. In addition to that, you have a powerful
 _**soundfonts player**_ that you can use with your own samples, and a _**puredata**_ patch player.
+
+![Aida DSP OS](assets/images/aida_dsp_os_connections1_large.jpg)
 
 1. Three function modes
   * soundfonts player .gig, .sf2 and .sfz
@@ -36,7 +38,7 @@ _**soundfonts player**_ that you can use with your own samples, and a _**puredat
   * 64-bit internal processing
   * 32GB sd card (class 10 95MB/s read speed)
 
-![Aida DSP OS](assets/images/aida_dsp_os_front.jpg)
+![Aida DSP OS](assets/images/aida_dsp_os2_medium.jpg)
 
 ### What's included
 

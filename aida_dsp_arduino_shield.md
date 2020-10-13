@@ -1,6 +1,7 @@
 ---
-image: assets/images/aida_dsp_arduino_shield1.jpg
+image: assets/images/aida_dsp_arduino_shield1_large.jpg
 is_background_image: True
+is_background_image_darker: True
 description: Yet another audio shield for Arduino this time with a dsp!
 
 layout: page
@@ -15,6 +16,8 @@ order: 0
 
 Aida DSP is an audio shield for Arduino for those who wants to learn or teach _**STEM**_, and for _DIYers_ who want to just make their
 own audio effect without sacrifice the sound quality
+
+![Aida DSP Arduino Shield](assets/images/aida_dsp_arduino_shield1_medium.jpg)
 
 ### Specs
 - Compact design size (Arduino shield form factor)
