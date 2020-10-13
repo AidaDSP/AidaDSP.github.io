@@ -14,26 +14,37 @@ order: 0
 
 ## Aida DSP OS
 
-Thanks to it's small size Aida DSP OS is the innovative product that is called to be a sostitute of your Pc in the music composition/production process: when you're going to do some rehersal, in the recording studio or on the road. It's based on the same
-technology of the renowned _**Mod Duo**_, a device presented at _NAMM 2017_. In addition to that, you have a powerful
-_**soundfonts player**_ that you can use with your own samples, and a _**puredata**_ patch player.
+### What is it?
+
+Aida DSP OS is a portable standalone synthesizer and digital effect processor based on _Linux_ and other open source software
+
+### How it works?
+
+First, you need to choose between 3+ operating modes. The current modes are:
+
+* _**Sampler/soundfont player**_ (i.e. you can play a piano/synth with your midi keyboard/controller) 
+* _**Mod Duo &reg; pedalboard player**_ (i.e. you attach a guitar/bass and you build your own virtual pedalboard using the plugins installed)
+* _**Puredata patch player**_ (i.e. you select and load a pd patch previously builded on your Pc)
+* _**Combo mode**_ (soundfont player with Mod Duo &reg; pedalboard in cascade)
+
+The board is shipped with _**Mod Duo &reg; pedalboard player**_ mode as default. You can change board settings by simply editing a text file.
+
+### Connections example
 
 ![Aida DSP OS](assets/images/aida_dsp_os_connections1_large.jpg)
 
-1. Three function modes
-  * soundfonts player .gig, .sf2 and .sfz
-  * mod duo pedalboards player
-  * puredata patch player
-2. In/Out
+### Features
+  
+1. In/Out
   * optoisolated midi input (connect directly keyboards, synths)
   * usb host port for usb midi controllers
   * high impedance instrument input (guitar/bass) (6.5mm jack)
   * stereo line out (3.5mm jack)
-3. Control
+2. Control
   * high contrast oled display
   * three micro switches
   * connect usb to a Pc to copy samples or custom plugins (usb storage mode)
-4. Performance
+3. Performance
   * quad core cortex A53 processor with 1GB of ram
   * audio codec 24bit/48/96/192kHz
   * 64-bit internal processing
@@ -69,6 +80,7 @@ can be easily mounted and accessed also by non-linux systems. This also saves fr
 
 - Power supply: 5V/2A. You can use a standard 2A phone charger with micro USB connector, or a [Raspberry Pi's adapter](https://www.amazon.it/Aukru-Alimentatore-Raspberry-modello-Modello/dp/B01566WOAG/ref=sr_1_8?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=raspberry+pi+supply&qid=1569943965&s=gateway&sr=8-8). Power banks for mobile phones also work very well and help avoiding ground loops.
 - Midi/audio cables
+- [WiFi usb dongle](https://www.amazon.it/D-Link-DWA-121-Adattatore-Wireless-Antracite/dp/B004X8R7HY/ref=sr_1_5?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=d-link%20usb%20wifi&qid=1584376986&sr=8-5&swrs=B3D668556947E065B2CE782FAA97C263&fbclid=IwAR0Vr2L_k0_AUy2j_GJnvZMGryFhYNdQ8MEbCz_ExXT1v740eG5xbv9u0pg) or another one with the same chip
 
 ### Dimensions
 
@@ -94,8 +106,8 @@ can be easily mounted and accessed also by non-linux systems. This also saves fr
 - [Gallery]()
 - [Video 1: Rhodes piano](https://www.youtube.com/watch?v=kfzPL0KXjlY)
 - [Video 2: Live usage with a loop station](https://www.youtube.com/watch?v=8az4FD6caq4)
-- [Mod Duo mode](https://www.youtube.com/channel/UCHDkEU3hgz7rVfUCDqRAoJQ)
 - [Sampler mode](https://www.youtube.com/channel/UCHDkEU3hgz7rVfUCDqRAoJQ)
+- [Mod Duo &reg; mode](https://www.youtube.com/channel/UCHDkEU3hgz7rVfUCDqRAoJQ)
 - [Puredata mode](https://www.youtube.com/channel/UCHDkEU3hgz7rVfUCDqRAoJQ)
 
 ### Powered by
@@ -112,7 +124,8 @@ can be easily mounted and accessed also by non-linux systems. This also saves fr
 
 ### Credits
 
-This product would not exists without the impressive work of the guys at **Moddevices**
-and the big community that they created around their product. Last but not least, Aida DSP OS wouldn't exist without open source software. We want to actively contribute to the Mod Duo community and the open source software and we're looking for the best options to do so.
+Aida DSP OS wouldn't exist without open source software. We want to actively endorse and contribute to the open source community and we're always looking for the best options to do so.
+
+We're not directly affiliated with **Moddevices**. All product and company names are the registered trademarks of their original owners.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
