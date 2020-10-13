@@ -28,14 +28,13 @@ and more!
 
 ### Turn your audio expertise into a finalized product
 
-- Are there some equalization schemes that you use often in your studio? So why not to put
-them inside a pedal so you can use them also during rehersals or when you work on the road?
-- Do you like the sound of some compressor presets that you use with your favourite plugin on your DAW? Put them
-into a pedal, this will ease your job both while recording (both you or your customers) or
-during production.
-- Are you a producer? It's easier to convince a musician to play through a stompbox since can be used
-together with their own instrumentation, but a the same time helps you in keeping that particular sound idea
-that you had for their album
+- Are there some equalization schemes that you use often in your studio? Together we can render
+them inside a pedal and you will forget about opening the Pc or installing your software to someone'else DAW.
+- Do you like the sound of some compressor presets that you use with your favourite plugin on your DAW? Together we can put them
+into a pedal, this will ease your job both while recording bands or during production, since the effect will be exactly in the position where it should be from the beginning
+- Are you a producer? It's easier to convince a musician to play through a stompbox since generally speaking they can be used
+together with their own instrumentation and is much easier for them to interface with it. But a the same time helps you in keeping that particular sound idea
+that you have in mind without using a lot of plugins on your DAW later.
 
 ### Endless options and combinations
 
@@ -51,7 +50,8 @@ that you had for their album
 ### Solid and durable
 
 We did a huge research among our suppliers to carefully select the components and we made a lot of prototypes before arriving at the current one.
-One example? We completely redesigned the electronics to use metallic premium quality knobs screwed onto the case instead of the plastic, pcb mounting ones that were present in the first prototype.
+One example? We completely redesigned the electronics to use metallic premium quality knobs screwed onto the case to allow for a road-ready, high quality
+product
 
 ### Partners
 
