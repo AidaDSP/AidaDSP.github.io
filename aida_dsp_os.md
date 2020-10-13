@@ -41,7 +41,7 @@ connecting them together in a total free way)
 
 The board is shipped with _**Mod Duo &reg; pedalboard player**_ mode as default. You can change board settings by simply editing a text file.
 
-### Connections example
+### Connections diagram
 
 ![Aida DSP OS](assets/images/aida_dsp_os_connections1_large.jpg)
 
