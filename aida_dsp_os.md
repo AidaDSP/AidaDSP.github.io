@@ -23,7 +23,8 @@ Aida DSP OS is a portable standalone synthesizer and digital effect processor ba
 First, you need to choose between 3+ operating modes. The current modes are:
 
 * _**Sampler/soundfont player**_ (i.e. you can play a piano/synth with your midi keyboard/controller) 
-* _**Mod Duo &reg; pedalboard player**_ (i.e. you attach a guitar/bass and you build your own virtual pedalboard using the plugins installed)
+* _**Mod Duo &reg; pedalboard player**_ (i.e. you attach a guitar/bass and you build your own virtual pedalboard using the plugins installed and
+connecting them together in a total free way)
 * _**Puredata patch player**_ (i.e. you select and load a pd patch previously builded on your Pc)
 * _**Combo mode**_ (soundfont player with Mod Duo &reg; pedalboard in cascade)
 

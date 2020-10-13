@@ -111,12 +111,44 @@ When you finished to edit the configuration file, save it before exit and restar
 
 Aida DSP OS should now start with the new configuration active.
 
+### WiFi
+
+The WiFi connection works only in access point mode. To enable WiFi simply connect
+the USB WiFi dongle to the board then power it. Once powered the board will creates its own network, you should
+connect to it with:
+
+* **SSID**: AIDADSPOS
+* **PWD**: aidadspos
+
+The board ip using WiFi is 20.20.20.1
+
+---
+**NOTE**
+
+Security used is WPA2. Hardware compatibility for now includes only [this](https://www.amazon.it/D-Link-DWA-121-Adattatore-Wireless-Antracite/dp/B004X8R7HY/ref=sr_1_5?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=d-link%20usb%20wifi&qid=1584376986&sr=8-5&swrs=B3D668556947E065B2CE782FAA97C263&fbclid=IwAR0Vr2L_k0_AUy2j_GJnvZMGryFhYNdQ8MEbCz_ExXT1v740eG5xbv9u0pg) usb dongle or another one with the same chip
+
+---
+
+### Ethernet
+
+Simply connect an ethernet cable between the board and your Pc. The board acts like a router and gives your Pc a valid ip address.
+
+The board ip using ethernet is 10.10.10.1
+
+### Midi
+
+The board supports midi devices using the native DIN 5-poles input connector or USB midi devices connected to the board
+using the USB host port. The device, if supported, will be immediately recognized and configured.
+
+![Aida DSP OS](assets/images/aida_dsp_os_midi1.jpg)
+
 ### How files are organized in the exposed partition
 
 ```
 .
 ├── .config
 ├── .lv2plugins
+├── .lv2pluginsbad
 ├── .oldlogs
 ├── .pedalboards
 ├── .puredata
@@ -125,6 +157,7 @@ Aida DSP OS should now start with the new configuration active.
 
 * _**.config**_ contains the config file that stores system settings
 * _**.lv2plugins**_ contains all the lv2 plugins installed on the board
+* _**.lv2plugins**_ contains all the unstable lv2 plugins installed on the board
 * _**.oldlogs**_ contains all the relevant logs both from system and applications (logs are rotated every hour)
 * _**.pedalboards**_ contains all the Mod Duo pedalboards
 * _**.puredata**_ contains all the pd patches
@@ -246,8 +279,8 @@ K3 | Down/Decr. | Nothing
 
 In this mode you can either
 
-1. Use the hmi to load a virtual pedalboard
-2. Connect with ethernet cable with your Pc to use Mod Duo web editor (http://10.10.10.1:8888)
+1. Use the hmi to load a virtual pedalboard already saved on the board
+2. Create or modify a new virtual pedalboard using the web editor
 
 ### Available hmi pages in Mod Duo mode
 
@@ -285,8 +318,17 @@ K3 | Nothing | Nothing
 
 ### Mod Duo web editor
 
+To use the web editor forst connect to the board using ethernet or WiFi, then open a browser and type
+
+_http://10.10.10.1:8888_
+
+or
+
+_http://20.20.20.1:8888_
+
 You can use the Mod Duo web editor to create a virtual pedalboard, to select
-and adjust an existing pedalboard, edit it to your needs and save it.
+and adjust an existing pedalboard and store it on the board. You can also
+map a parameter of an effect to an external _**midi cc**_ compatible controller.
 
 [ ![](assets/images/aida_dsp_os_modduo_mode2_small.jpg) ](assets/images/aida_dsp_os_modduo_mode2_large.png)
 
