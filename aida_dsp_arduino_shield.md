@@ -14,21 +14,24 @@ order: 0
 
 ## Aida DSP Arduino Shield
 
-Aida DSP is an audio shield for Arduino for those who wants to learn or teach _**STEM**_, and for _DIYers_ who want to just make their
-own audio effect without sacrifice the sound quality
+### What is it?
 
-![Aida DSP Arduino Shield](assets/images/aida_dsp_arduino_shield1_medium.jpg)
+Aida DSP is an audio shield for Arduino for those who wants to implement their own audio effects without compromises on the sound quality.
+
+In addition, it can be used as a platform in _**STEM**_ courses to teach engineering and digital signal processing.
 
 ### Specs
+- Pro audio A/D D/A conversion: 24 bits, 48/96/192kHz
 - Compact design size (Arduino shield form factor)
 - Low noise design for audio applications
 - Low latency less than 1ms guaranteed
 - 2 mono inputs 4 mono outputs
-- Pro audio A/D D/A conversion: 24 bits, 48/96/192kHz
 - Dedicated crimpable connectors to host encoder, buttons and pots
 - Expansion connector with available signals from DSP
 - Available open source examples for Arduino boards
 - Compatible with Arduino Uno/Mega/Due/Zero
+
+![Aida DSP Arduino Shield](assets/images/aida_dsp_arduino_shield1_medium.jpg)
 
 ### How it works
 
@@ -36,10 +39,10 @@ own audio effect without sacrifice the sound quality
 > > The DSP firmare is developed in Sigma Studio, a proprietary tool which implements an intuitive graphical design workflow. From Sigma Studio you can export an .xml file which contains DSP firmware and then with our [Java tool](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Java/AidaHeaderFileGenerator/bin) you can generate a C header file to be used in the Arduino IDE.
 
 2. Arduino sketch
-> > Now you're ready to code a sketch that communicates with the DSP in real time to control its algorithm using [Aida DSP Arduino library](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Libraries).
+> > With the help of the auto-generated code, it's easier to develop a sketch that communicates with the DSP in real time to control its algorithm using [Aida DSP Arduino library](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Libraries).
 
 3. Create!
-> > Basically you can manage your UI (user interface: buttons, faders, etc.) with Arduino and then let the DSP do the whole hard work of processing audio. For example you can use the DSP to generate a sine tone and change its frequency and amplitude with a pot wired to Arduino's analog input. Check out our [examples](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Examples) on Github!
+> > Now you can manage your UI (user interface: buttons, faders, etc.) with Arduino and then let the DSP do the whole hard work of processing audio. For example you can use the DSP to generate a sine tone and change its frequency and amplitude with a pot wired to Arduino's analog input. Check out our [examples](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Examples) on Github!
 
 ### Typical applications
 - 1st and 2nd order equalizers with adjustable f, Q, gain
