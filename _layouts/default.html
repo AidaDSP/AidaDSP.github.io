@@ -75,7 +75,10 @@
         {% endif %}
             {% if page.is_background_image %}
             {% else %}
+            {% if page.layout == 'post' %}
+            {% else %}
             <img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="header-image-responsive"/>
+            {% endif %}
             {% endif %}
             <h1 class="project-name">{{ page-title }}</h1>
             <h2 class="project-tagline">{{ page-tagline }}</h2>
