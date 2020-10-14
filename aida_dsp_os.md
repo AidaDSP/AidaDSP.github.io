@@ -21,8 +21,8 @@ Aida DSP OS is a portable standalone synthesizer and digital effect processor ba
 ### How it works?
 
 Simply you connect your midi keyboard and select a sound (piano, synth, drum), then start to play. To select a sound you use the three buttons
-and the oled display: lateral buttons work as arrows up/down and central button as select/confirm. Then if you press the left button for more than
-a second, you go back by one level.
+and the oled display: lateral buttons work as arrows up/down and central button as select/enter. Then if you press the left button for more than
+a second, you go back to the previous screen.
 
 If you want to process the sound of your guitar/bass you need to connect to the instrument input and select one of the patches that are saved in the
 internal memory. If you want to edit the patch you can connect to the board with a Pc/Tablet using WiFi or ethernet: you don't need to install
