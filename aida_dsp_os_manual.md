@@ -410,10 +410,11 @@ Just to let you know.
 
 System has been kept as simple and linear as possible, but since many combinations of factors could occour, what to do?
 
-1. Leave the board powered at least one hour since the problem occours
+1. Annotate the error displayed on the oled display, if any.
 2. Start the board in USB mass storage mode (see specific section) and copy folder .oldlogs to your Pc
 3. Contact the Aida DSP customer service [Facebook](https://www.facebook.com/official.AidaDSP)
 4. Provide to the customer service the following files/informations:
+  * error showed on the oled display (if any)
   * .oldlogs folder in a .zip archive
   * informations on how to replicate the problem (if any)
 
