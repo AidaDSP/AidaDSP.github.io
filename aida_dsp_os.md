@@ -16,7 +16,7 @@ order: 0
 
 ### What is it?
 
-Aida DSP OS is a portable standalone synthesizer and digital effect processor based on _Linux_ and other open source software
+Aida DSP OS is a portable standalone synthesizer and digital effect processor based on _Linux_ and other open source software like alsa, jack and lv2 plugins.
 
 ### How it works?
 
@@ -25,8 +25,8 @@ and the oled display: lateral buttons work as arrows up/down and central button 
 a second, you go back by one level.
 
 If you want to process the sound of your guitar/bass you need to connect to the instrument input and select one of the patches that are saved in the
-internal memory. If you want to edit the patch you can connect to the board over ethernet/WiFi with a Pc or Tablet: you don't need to install
-any software/app all that you need is a browser. You can also map any parameter of the effects with a knob/switch on your midi controller, as a result
+internal memory. If you want to edit the patch you can connect to the board with a Pc/Tablet using WiFi or ethernet: you don't need to install
+any software/app since it works within a browser. You can also map any parameter of the effects with a knob/switch on your midi controller, as a result
 you can build complex virtual pedalboards and operate them during live performances.
 
 ### Operating modes
