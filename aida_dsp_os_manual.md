@@ -131,7 +131,7 @@ Security used is WPA2. Hardware compatibility for now includes only [this](https
 
 ### Ethernet
 
-Simply connect an ethernet cable between the board and your Pc. The board acts like a router and gives your Pc a valid ip address.
+Simply connect an ethernet cable (CAT-5) between the board and your Pc. The board acts like a router and gives your Pc a valid ip address.
 
 The board ip using ethernet is 10.10.10.1
 
@@ -341,7 +341,7 @@ For in-depth explanation, please refer to [wiki](https://wiki.moddevices.com/wik
 **NOTES**
 
 The wiki mentions a usb connection to use the web editor. This is not needed with Aida DSP OS just
-connect the ethernet cable to the ethernet port of Aida DSP OS.
+use the ethernet port or connect via WiFi as described in the previous section.
 
 Installed on the board you can find a plugin called _**Level Meter**_ you can use it to monitor internal volumes in any
 point of the pedalboard.
