@@ -146,9 +146,20 @@ a {
 }
 
 .header-image-responsive {
-  width: 10%;
-  max-width: 400px;
+  width: 100%;
   height: auto;
+
+  @include large {
+    max-width: 180px;
+  }
+
+  @include medium {
+    max-width: 140px;
+  }
+
+  @include small {
+    max-width: 120px;
+  }
 }
 
 .project-name {
