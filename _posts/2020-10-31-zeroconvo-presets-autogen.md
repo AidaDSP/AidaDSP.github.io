@@ -7,7 +7,7 @@ _**Zeroconvo**_ is a ir convolver plugin made by [Robin Gareus](https://gareus.o
 many of the [plugins](http://x42-plugins.com/x42/) currently running on _**Mod Duo**_ or _**Aida DSP OS**_.
 
 Some users of Ardour or Ubuntu Studio may argue that an excellent open source ir convolution
-plugin, [ir.lv2](https://github.com/Anchakor/ir.lv2) already exists, so why wasting time in using zeroconvo?
+plugin, [ir.lv2](https://github.com/Anchakor/ir.lv2) already exists, so why wasting time using zeroconvo?
 
 The answer is zeroconvo works in _headless devices_* like _**Mod Duo**_ or _**Aida DSP OS**_.
 
