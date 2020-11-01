@@ -122,6 +122,8 @@ If you want to support me, checkout my [store](https://www.tindie.com/products/M
 1. "Headless" are devices where the x11 support (like in normal desktop machines) is missing
 2. The web interface running on _**Mod Duo**_ and _**Aida DSP OS**_
 
+The version of Zeroconvo used with my tests is 507d7dd4b52b755b860d19694e4f84e247a7969a
+
 ---
 
 [Go to the Home Page]({{ '/' | absolute_url }})
