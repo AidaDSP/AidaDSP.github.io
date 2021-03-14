@@ -66,7 +66,7 @@ on the mic type and positions
 
 I made a script to scan all the files in the directory and generate automatically a valid ttl preset file for Zeroconvo plugin.
 
-You can download the script from [Aida DSP OS Share](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing) under _**Zeroconvo**_ directory.
+You can download the script from [Aida DSP OS Share](https://drive.google.com/drive/folders/11b5uSavJboytXnDFgocN8cjFrTf7xIc7?usp=sharing) under _**Zeroconvo**_ directory.
 
 I've tested it on a Pc running _**Ubuntu**_. In order to run it you need to install also _**ffmpeg**_ since I use
 it to generate file's info that I write in the preset descriptions.
