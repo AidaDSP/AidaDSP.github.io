@@ -16,32 +16,32 @@ order: 0
 
 FAQs:
 
-1) **What is SFZ?**
+1) **What is _sfz_?**
 
-SFZ is a plain text file format that stores instrument data for software synthesizers. See full Wikipedia's [page](https://en.wikipedia.org/wiki/SFZ_(file_format))
+_**Sfz**_ is a plain text file format that stores instrument data for software synthesizers. See full Wikipedia's [page](https://en.wikipedia.org/wiki/SFZ_(file_format))
 
-2) **Can I play SFZ soundfonts on Mac/Windows?**
+2) **Can I play _sfz_ soundfonts on Mac/Windows?**
 
-Many programs support SFZ, for example [Sforzando](https://www.plogue.com/downloads.html)
+Many programs support _**sfz**_, for example [Sforzando](https://www.plogue.com/downloads.html)
 
-3) **Are SFZ soundfonts better that other soundfonts?**
+3) **Are _sfz_ soundfonts better that other soundfonts?**
 
 No, the final quality of a soundfont is determined by the quality of the job done by the sound designer who recorded the samples. Although we may say
-that SFZ is a very flexible and open format, and has advanced features that make it compete with some well known commercial
+that _**sfz**_ is a very flexible and open format, and has advanced features that make it compete with some well known commercial
 formats
 
 4) **Why another soundfont format? I have Komplete and I'm done with it...**
 
 Komplete is a proprietary commercial solution. To play such samples you need their proprietary player, Kontakt Player. If you think about it,
-you bought their samples but you don't own them: you cannot import your samples files in Audacity and edit them. SFZ is an open format, that means that you can use
-the program you want to play them, the only requirement is that this program needs to support SFZ format. In SFZ format the individual samples are just wav files
+you bought their samples but you don't own them: you cannot import your samples files in Audacity and edit them. _**Sfz**_ is an open format, that means that you can use
+the program you want to play them, the only requirement is that this program needs to support _**sfz**_ format. In _**sfz**_ format the individual samples are just wav files
 that you can edit with the program of your choice.
 You have total control over the samples you bought and you have no limits for your creativity.
 
 
-## More on .sfz?
+## More on sfz?
 
-When you refer to a soundfont, you refer to a file that can be loaded by your favourite sample player. A soundfont/instrument in SFZ format
+When you refer to a soundfont, you refer to a file that can be loaded by your favourite sample player. A soundfont/instrument in sfz**_ format
 is a directory with this structure:
 
     harpsichord
@@ -94,13 +94,13 @@ This is the pattern that maps the sample to a note:
 
 ## Okay thanks for the theory, how can I create my soundfonts?
 
-I prefer to edit .sfz files by hand, since I've discovered the SFZ sintax is very simple and you can have a working soundfont
-by using two-three tags. But full featured edit softwares do exist for SFZ, see for example [Polyphone](https://www.polyphone-soundfonts.com).
+I prefer to edit .sfz files by hand, since I've discovered the _**sfz**_ sintax is very simple and you can have a working soundfont
+by using two-three tags. But full featured edit softwares do exist for _**sfz**_, see for example [Polyphone](https://www.polyphone-soundfonts.com).
 Actually to realize my soundfonts I'm using some custom made scripts. I may publish them in future, if interested write me
 a message.
 
 
-## Where I can download some SFZ samples?
+## Where I can download some sfz samples?
 
 1. Free (may require registration)
   * https://www.polyphone-soundfonts.com/en/download-soundfonts
@@ -110,7 +110,7 @@ a message.
 
 2. Non-free
   * https://www.loopmasters.com/formats/15-SFZ
-  * your favourite samples store could already have samples in SFZ format, check it out!
+  * your favourite samples store could already have samples in _**sfz**_ format, check it out!
 
 
 ## Additional resources and documentation
