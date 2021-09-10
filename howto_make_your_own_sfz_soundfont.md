@@ -16,7 +16,7 @@ order: 0
 
 FAQs:
 
-1) **What is it SFZ?**
+1) **What is SFZ?**
 
 SFZ is a plain text file format that stores instrument data for software synthesizers. See full Wikipedia's [page](https://en.wikipedia.org/wiki/SFZ_(file_format))
 
@@ -30,14 +30,16 @@ No, the final quality of a soundfont is determined by the quality of the job don
 that SFZ is a very flexible and open format, and has advanced features that make it compete with some well known commercial
 formats
 
-4) **Why another soundfont format? I have komplete and I'm done with it...**
+4) **Why another soundfont format? I have Komplete and I'm done with it...**
 
-So you pay for samples that you do not own, since you can play them only through their proprietary player that runs
-only on certain machines. SFZ is an open format, that means that you can use the program you want to play them, the only
-requirement is that this program needs to support SFZ format.
+Komplete is a proprietary commercial solution. To play such samples you need their proprietary player, Kontakt Player. If you think about it,
+you bought their samples but you don't own them: you cannot import your samples files in Audacity and edit them. SFZ is an open format, that means that you can use
+the program you want to play them, the only requirement is that this program needs to support SFZ format. In SFZ format the individual samples are just wav files
+that you can edit with the program of your choice.
+You have total control over the samples you bought and you have no limits for your creativity.
 
 
-## So what is it .sfz?
+## More on .sfz?
 
 When you refer to a soundfont, you refer to a file that can be loaded by your favourite sample player. A soundfont/instrument in SFZ format
 is a directory with this structure:
@@ -60,7 +62,9 @@ is a directory with this structure:
     ├── harpsichord.sfz
     └── license.txt
 
-you have a list of wav files that are actually the samples (i.e. a single notes of a piano recorded from attack to end of decay) and a file with .sfz extension that is where the magic happens. This file is a map between notes and samples and is a structured document, like html for example, with regions identified by specific tags and syntax. Let's see the content of **harpsichord.sfz**:
+you have a list of wav files that are actually the samples (i.e. a single notes of a piano recorded from attack to end of decay)
+and a file with .sfz extension that is where the magic happens. This file is a map between notes and samples and is a structured document,
+like html for example, with regions identified by specific tags and syntax. Let's see the content of **harpsichord.sfz**:
 
     <group> ampeg_release=.2 ampeg_sustain=.01 ampeg_decay=60
     <region> sample=Bb1.wav pitch_keycenter=a#1 hikey=c2
@@ -90,7 +94,10 @@ This is the pattern that maps the sample to a note:
 
 ## Okay thanks for the theory, how can I create my soundfonts?
 
-https://www.polyphone-soundfonts.com
+I prefer to edit .sfz files by hand, since I've discovered the SFZ sintax is very simple and you can have a working soundfont
+by using two-three tags. But full featured edit softwares do exist for SFZ, see for example [Polyphone](https://www.polyphone-soundfonts.com).
+Actually to realize my soundfonts I'm using some custom made scripts. I may publish them in future, if interested write me
+a message.
 
 
 ## Where I can download some SFZ samples?
