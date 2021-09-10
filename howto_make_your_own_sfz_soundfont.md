@@ -102,7 +102,7 @@ a message.
 
 ## Where I can listen to _your_ samples?
 
-- https://soundcloud.com/massimo-pennazio/soundfonttestsuitcasemarki
+- [This is a Rhodes Mark I electric vintage piano soundfont I've made](https://soundcloud.com/massimo-pennazio/soundfonttestsuitcasemarki)
 
 I use to include my samples into Aida DSP OS releases. To own my samples you can [buy the board]({{ '/aida_dsp_os.html' | absolute_url }}).
 
