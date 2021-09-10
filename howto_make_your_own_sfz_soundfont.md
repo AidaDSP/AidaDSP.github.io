@@ -41,7 +41,7 @@ You have total control over the samples you bought and you have no limits for yo
 
 ## More on sfz?
 
-When you refer to a soundfont, you refer to a file that can be loaded by your favourite sample player. A soundfont/instrument in sfz**_ format
+When you refer to a soundfont, you refer to a file that can be loaded by your favourite sample player. A soundfont/instrument in _**sfz**_ format
 is a directory with this structure:
 
     harpsichord
@@ -98,6 +98,13 @@ I prefer to edit .sfz files by hand, since I've discovered the _**sfz**_ sintax 
 by using two-three tags. But full featured edit softwares do exist for _**sfz**_, see for example [Polyphone](https://www.polyphone-soundfonts.com).
 Actually to realize my soundfonts I'm using some custom made scripts. I may publish them in future, if interested write me
 a message.
+
+
+## Where I can listen to _your_ samples?
+
+- https://soundcloud.com/massimo-pennazio/soundfonttestsuitcasemarki
+
+I use to include my samples into Aida DSP OS releases. To own my samples you can [buy the board]({{ '/aida_dsp_os.html' | absolute_url }}).
 
 
 ## Where I can download some sfz samples?
