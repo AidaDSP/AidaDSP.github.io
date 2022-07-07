@@ -17,14 +17,14 @@ order: 0
 This sdk will allow you to compile LV2 audio plugins that can run on Aida DSP OS board
 based on a 64-bit Quad-Core ARM Cortex-A53 processor. 
 
-You can download the sdk [here](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
+You can download the sdk [here](https://drive.google.com/drive/folders/1-AAfAP-FAddCw0LJuvzsW8m_1lWHKXaV?usp=sharing)
 
 
 ## Installation
 
 On a Linux machine:
 
-`./poky-glibc-x86_64-aidadsp-basic-image-aarch64-toolchain-2.4.3.sh`
+`./poky-glibc-x86_64-aidadsp-sdk-image-aarch64-nanopi-neo2-toolchain-3.1.15.sh`
 
 
 ## Build example plugin
@@ -65,10 +65,6 @@ a plugin are defined.
     MyAwesomeAudioPlugin::deactivate
     MyAwesomeAudioPlugin::cleanup -> do the free(s) here
     MyAwesomeAudioPlugin::extension_data
-
-Aida DSP OS is running a rt patched operative system, so it is possible to enable in the plugin
-the hardRTCapable flag. However setting this flag is not mandatory and doesn't affects plugin performance,
-is only a plugin "qualifier".
 
 
 ## Graphic interface for the audio plugin
