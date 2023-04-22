@@ -8,6 +8,21 @@
 layout: home
 title: Aida DSP
 ---
+## AIDA-X
+
+![aida-x]([https://raw.githubusercontent.com/AidaDSP/AIDA-X/main/docs/Screenshot.png])
+
+The most versatile AI MODELER for guitar amps.
+
+AIDA-X gives you the dynamic response and sound that you expect from a real guitar amp. 
+All made possible by advanced machine learning techniques.
+
+AIDA DSP teamed up with MOD Audio to bring this exciting new technology to MOD devices and as a audio plugin for all major platforms. It allows users to load and play their favourite guitar  amps all within your DWARF or DAW. 
+
+Easily capture the sound of your own gear with our new training software available for free online. 
+Or choose from a vast and growing library of user uploaded amps and models.
+
+[FIND OUT MORE]({{ 'www.aida-x.cc'}})
 
 ## Products
 
