@@ -7,7 +7,6 @@ gitpath="$1"
     curl -sO $mobyurl/default.json
     sed '/"pause",/a\\t\t\t\t"personality",' default.json > personality.json
 }
-docker build --progress=plain -t aidadsp-web .
 docker run -it --rm --name aidadsp-web \
        -v $gitpath:/mnt/data --security-opt \
        seccomp=personality.json \
